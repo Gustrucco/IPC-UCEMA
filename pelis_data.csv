@@ -1,0 +1,1001 @@
+id,pelicula,genero,anio_estreno,moneda,recaudacion,puntaje_imdb
+1,Dulce caridad,Comedia,1991,USD,13838743.51,7.3
+2,"Día del universo cambió, El",Documental,1995,USD,1878156.54,4.2
+3,"Casa en el borde del Parque, La (Casa sperduta nel parco, La)",Horror,1994,USD,8140548.06,3.1
+4,Hey Bartender,Documental,20005,USD,25052717.82,3.4
+5,hermano secreto,Comedia,2011,USD,4854379.4,4.7
+6,La salvación del bulevar,Comedia,2002,USD,7664862.86,7.2
+7,Año del Carnívoro,Comedia,2004,ARS,16221704.71,8.8
+8,Todo en su conjunto,Drama,2008,USD,13566358.64,7.6
+9,Sombrías,Drama,2000,ARS,11488543.15,8.9
+10,"10,000 kilometros (larga distancia)",Drama,2004,USD,9665399.32,8
+11,Misterios del Titanic,Documental,1798,USD,26127102.26,4.8
+12,"Asuntos privados de Bel Ami, El",Drama,1996,USD,13554029.62,4.3
+13,Campanadas a medianoche (Campanadas a medianoche),Comedia,2003,USD,24061661.89,2.4
+14,"Feliz chica en el mundo, La (Cea mai fericita fata din lume)", ,1986,,,7.9
+15,Recuerda los titanes,Drama,2009,USD,7490940.4,7.9
+16,Séptimo cielo,Comedia,1999,USD,18609140.66,5.8
+17,Sube el volumen,Comedia,2008,USD,25506004.62,4.3
+18,Arrowsmith,Drama,2003,ARS,7570905.02,4.7
+19,Las hojas del libro de Satán (Blade af Satans bog),Drama,1992,USD,11748469.35,2
+20,Chica de oro,(No hay géneros de la lista),2008,USD,27303806.56,3.2
+21,Frankie y Alice,Drama,1996,USD,21844037.21,6.2
+22,Peculiaridades de la Pesca Nacional (Osobennosti natsionalnoy rybalki),Comedia,2005,USD,10893928.23,1.2
+23,Cinema Paradiso (Nuovo Cinema Paradiso),Drama,2006,ARS,12953128.93,9.2
+24,Bendice al niño,Novela de suspenso,1992,USD,15916374.3,2.6
+25,Paisaje modelado,Drama,1995,USD,23480533.24,6.8
+26,Falling Angels,Drama,2005,USD,19894634.06,2.4
+27,En el viento,Comedia,2011,USD,23264334.96,2.7
+28,"Web de cristal, El",Crimen,1990,USD,13615955.23,4.8
+29,Columbus Circle,Crimen,1977,USD,28026213.57,4.5
+30,El Greco,Drama,2008,USD,21314768.34,5.1
+31,Tiroteo en el ¡sí Corral,occidental,2006,USD,21818892.91,2.2
+32,"Responsabilidad, La",Acción,2005,USD,13765742.79,8.4
+33,Doppelgänger Paul,(No hay géneros de la lista),2008,USD,3162157.24,1.6
+34,Surgió del fondo del mar,Ciencia ficción,2004,USD,16789863.9,9.8
+35,Dead Awake,Acción,2006,USD,644941.19,7
+36,Idlewild,Crimen,2002,ARS,29093879.94,6.6
+37,Kurt Cobain: Montajes de Diablos,Documental,1988,USD,4124871.6,1.5
+38,Salvador (Puig Antich), ,2005,,,6.5
+39,Dinero de sangre,Acción,1999,USD,24582585.74,7.2
+40,Definitivamente puede ser,Comedia,2001,ARS,4822403.03,4.7
+41,"Está escrito en las estrellas, Inspector Palmu (Tähdet kertovat, komisario Palmu)",Crimen,2003,USD,6786104.35,2.2
+42,Algunas chicas),Comedia,1995,USD,3277813.04,6
+43,Peter Pan,Animación,1998,USD,5621717.44,3.8
+44,Carnages (Carnage alias),Drama,1992,USD,29129600.13,8.9
+45,"Corbeau, Le (Raven, La)",Crimen,2009,USD,14568198.92,3.3
+46,Volar hacia Río de Janeiro,Comedia,2012,USD,25132084.92,6.8
+47,Vengeance (Fu sau), ,2008,,,4.8
+48,"Gatos ""Great Performances""",Musical,2010,USD,22832215.57,6.1
+49,Mientras dormías,Comedia,2010,USD,14267909.41,3.7
+50,Película muda,Comedia,1996,USD,20676102.89,2.8
+51,galería Nacional,Documental,2011,USD,16758419.73,8.2
+52,Vision Quest,Drama,2007,USD,23064674.7,5.1
+53,Sodoma y Gomorra,Aventuras,2011,USD,18803098.72,4.6
+54,Winterhawk,occidental,1999,USD,29808909.12,
+55,Justo antes del amanecer,Horror,1994,USD,9005777.62,1.3
+56,"Killer Elite,",Acción,2003,USD,17370173.76,9.1
+57,Jeremy,Drama,2005,USD,27954034.5,3.4
+58,Un verano en La Goulette,Comedia,1995,USD,14970219.87,5
+59,"Exorcismo en Connecticut 2: Ghosts of Georgia, El",Drama,2009,USD,25962672.51,5.8
+60,Red Salmo (MEG KER un NEP),Drama,1984,ARS,20622430.69,3.9
+61,Dane Cook: círculo vicioso,Comedia,2006,USD,20604927.83,5.5
+62,Martin & Orloff,Comedia,2006,USD,9393702.35,6.4
+63,Show Me Love (Cojida Åmål),Drama,2004,USD,23067450.15,3.1
+64,Hoguera de las vanidades,Comedia,2000,USD,20314376.08,9.2
+65,En su sueño (sommeil tonelada Dans),Horror,2013,USD,28924673.11,1
+66,Mi pedazo de la (parte Ma du gâteau) Pie,Comedia,1998,USD,15469481.89,6.9
+67,"Crónicas de Narnia: La travesía del viajero del alba, El",Aventuras,2012,USD,29455596.29,5.4
+68,Argumentando Mundo,Documental,2010,ARS,25683702.97,2.1
+69,Westward Ho,Drama,2000,USD,431487.85,5.9
+70,"Cell, El", ,1990,,,4.2
+71,Dororo,Aventuras,2004,ARS,3368907.07,4.8
+72,Double Jeopardy,Acción,2010,USD,20196459.46,3.7
+73,Saratoga,Comedia,2002,USD,3473184.97,3.1
+74,"Dresser, El",Drama,2001,USD,23491239.13,9.5
+75,El amor es una mujer (La muerte es una mujer),Crimen,1995,USD,1533360.27,3.7
+76,7 º de diciembre de,Documental,2005,USD,28928314.13,7.1
+77,"Frente, La",Comedia,1994,USD,1824185.87,3.7
+78,Vecinos Sounds (O som ao redor),Drama,1997,USD,14041826.4,9.5
+79,Miguel,Comedia,2007,USD,6895386.32,5.5
+80,la manera de Carlitos, ,1995,,,9.5
+81,Un gran poder: La historia de Stan Lee,Documental,1994,USD,12878993.24,9.3
+82,Zapped!,Comedia,1999,USD,5034963.86,6.1
+83,"Fuke, De",Drama,2012,USD,17691695.06,3
+84,Bob le Flambeur,Crimen,2008,USD,7804355.2,2.4
+85,freejack,Acción,2001,USD,11543022.92,7.6
+86,Hank y Mike,Comedia,1987,USD,22040864.99,5.7
+87,"Cuatro veces, El (Le Quattro Volte)",Drama,1973,USD,7342331.79,9.8
+88,Permanent Midnight,Drama,1955,USD,5637940.99,3.6
+89,Simbad: La leyenda de los siete mares,Aventuras,2010,USD,1680725.5,7.4
+90,El guerrero americano,Acción,1986,USD,10312767.77,4.5
+91,The Hire: Powder Keg,Acción,1992,USD,7367682.36,3.1
+92,"Cinco minaretes en Nueva York (venganza) (terrorista, el)",Drama,2009,USD,21371746.84,4
+93,Desde Rusia con amor,Acción,1994,USD,16342061.08,5.2
+94,Color Me Kubrick: A True ... ish historia,Comedia,2011,USD,986268.86,8.5
+95,Se han escapado (Él ovat paenneet),Drama,2012,ARS,17511594.99,9.5
+96,Más rápido,Acción,2012,USD,13438733.9,1.2
+97,Enemigos: A Love Story,Drama,2003,USD,20858444.97,4.3
+98,Tomar la iniciativa,Drama,2006,USD,8298301.19,6.1
+99,Atlantis: El imperio perdido,Aventuras,2006,USD,15032170.31,8.4
+100,Noche y niebla (Noche y niebla),Crimen,1996,USD,4589933.81,4.3
+101,Americana Hustle,Crimen,2012,ARS,2184269.36,7.4
+102,Proyecto de Día,Drama,2009,USD,12359639.16,2.9
+103,Vacaciones,Comedia,1997,ARS,12336027.2,2.2
+104,"Mujer de mi hermano (Mujer de mi Hermano, La)",Drama,1998,USD,8511509.65,8.1
+105,Maidentrip,Documental,2009,USD,23945703.19,3.2
+106,Juicio por jurado,Crimen,2004,USD,21054174.93,6.5
+107,La venganza de Zatoichi (Zatôichi nidan-kiri) (Zatôichi 10),Acción,1991,USD,523435.49,6.7
+108,Superproducción (Superprodukcja),Comedia,1995,USD,27528275.06,9.1
+109,"Gran Muppet Caper, El",Niños,1994,USD,19204141.13,8.1
+110,Navidad en Marte,Ciencia ficción,2007,USD,21137582.09,2.6
+111,Una oportunidad,Comedia,2003,ARS,15879411.9,5.7
+112,"8 Diagrama Polo de combate, The (alias Invincible Pole Fighter) (Wu Lang ba pistola gua)",Acción,2005,USD,1652085.45,6.3
+113,Allanamiento de morada,Comedia,2012,USD,17879200.1,1.6
+114,Muerte entre las flores,Crimen,1993,USD,8130743.19,6.7
+115,"Club de jugadores, La",Comedia,1995,USD,880707.62,8.4
+116,"Mejor hombre, El",Comedia,1997,USD,16830613.13,9.9
+117,Agatha Christie 'Ten Little Indians' (Ten Little Indians) (Y no quedó ninguno),Misterio,2008,USD,7361776.26,5.5
+118,inapropiados Comedia, ,1995,,,2.3
+119,"Caballero, El",Crimen,2002,USD,29148640.66,9.9
+120,Liga de la Justicia: Crisis en dos Tierras,Acción,2001,USD,13708305.92,3.2
+121,Möbius,Drama,2007,USD,9867813.62,9.4
+122,Bumerang,Comedia,2003,USD,14704355.19,10
+123,Caso grande de Charlie Chan,Misterio,1992,USD,17466744.54,4.5
+124,El ladrón,Crimen,2012,USD,29660923.06,4.6
+125,Gandhi,Drama,1993,USD,9490721.64,8.1
+126,El chico de al lado, ,2009,,,8.3
+127,"Pacto de los lobos (Pacte des loups, Le)",Acción,1993,ARS,18497563.39,9.1
+128,"Los muchachos perdidos,",Comedia,2003,USD,14682380.38,4.5
+129,Red Hook Summer,Drama,2011,USD,26357606.35,3.5
+130,Cuentos que dan testimonio de la locura,Comedia,2005,USD,22246245.8,4.8
+131,Chapoteo,Comedia,2002,USD,19420824.49,6
+132,Una Navidad con Blackadder,Comedia,1986,USD,29521910.17,
+133,"¿Qué hay en un nombre (Prénom, Le)",Comedia,2001,USD,20289300.61,6.1
+134,"La noche de Varennes (Nuit de Varennes, La)",Drama,1999,USD,5670006.61,8.8
+135,"Godzilla, Mothra y el Rey Ghidorah: Giant Monsters All-Out Attack (Gojira, Mosura, Kingu Gidorâ: daikaiju sôkôgeki) (Godzilla, Mothra y el Rey Ghidorah: Giant Monsters All-Out Attack)",Acción,1998,USD,17141855.38,5.9
+136,Contagio,Ciencia ficción,1972,USD,5509211.64,
+137,Gire el río,Drama,1989,USD,27909628.76,1.4
+138,gracia Unplugged,Drama,2003,ARS,6441693.32,7.8
+139,Más acerca de los niños de Noisy Pueblo (alias más acerca de los niños de Bullerby Village) (Mer om oss granero i Bullerbyn),Niños,2001,USD,2550312.98,3.3
+140,METRO,Crimen,1994,USD,3788210.14,7.5
+141,Tito,Drama,2006,USD,2220120.96,3.2
+142,"Sangre de las bestias (Sang des bêtes, Le)",Documental,2011,USD,15307233.2,6.1
+143,Un diploma muy caro,Comedia,1993,USD,27131490.98,3.4
+144,Árbol genealógico (L'arbre et la forêt), ,2006,,,7.1
+145,Ferragosto (Pranzo di ferragosto),Comedia,1993,USD,22673459.94,1.6
+146,Juego de muerte,Acción,1994,USD,28315830.83,3
+147,"Uvas de la Ira, La",Drama,2001,USD,11578575.53,6.5
+148,Mátame ahora,Comedia,1991,USD,15914883.09,3.9
+149,Fuegos artificiales (Flores de fuego),Crimen,2012,USD,22538714.81,8.5
+150,Navidad,Drama,1989,USD,25655893.06,5.2
+151,La muerte del trabajador,Documental,1993,USD,17022444.53,6.1
+152,Super 8 Historias,Documental,1993,USD,15129553.25,2.9
+153,"Caserón de las sombras, La",Drama,1996,USD,17052710.84,7.4
+154,Alice y Martin (Alice et Martin),Drama,1994,USD,25160659.69,4.5
+155,Thor Todopoderoso,Aventuras,2002,USD,7911461.99,7.6
+156,Persona non grata,Drama,2006,USD,20783986.68,6.5
+157,Colin Quinn: Long Story Short,Comedia,1998,USD,28707314.22,6.5
+158,Por debajo de la 12-Mile de Coral,Aventuras,2010,USD,18016305.96,2.6
+159,"Grande historia jamás contada, El",Drama,1995,USD,2621538.87,4.4
+160,Tender camarada,Drama,1993,ARS,1045350.81,8.2
+161,Séptimo piso,Misterio,2000,ARS,17254664.75,4.5
+162,Porque la Biblia me dice que tanto,Documental,2006,ARS,13272504.45,1.4
+163,"Extraño caso del Dr. Jekyll y la señorita Osbourne, The (Dr. Jekyll y su mujeres) (Docteur Jekyll et les femmes)",Horror,1993,USD,6177903.92,4.3
+164,Libro de amor,Comedia,2010,USD,19207685.17,9.3
+165,Cartas de un asesino,Crimen,1990,USD,28089010.2,9.9
+166,Aguardiente de manzana,Comedia,1992,USD,28922212.3,1
+167,"Ciencia del sueño, El (La science des rêves)",Comedia,2012,USD,9714947.45,5.8
+168,Rayo cadena,Acción,2007,USD,6919616.29,1.1
+169,Agua para elefantes,Drama,2011,USD,18547839.55,9.4
+170,Claire Dolan, ,2010,,,8.9
+171,Cero,Drama,1995,USD,434166.5,4.6
+172,Descubriendo a Forrester,Drama,2012,USD,9900648.03,9.8
+173,Tess y su guardaespaldas,Comedia,2012,USD,7798927.86,6.2
+174,Abandonado,Drama,1996,USD,24455308.8,9.1
+175,Algo de la nada: el arte de Rap,Documental,1995,USD,29783991.53,4.5
+176,"Romasanta, la caza del hombre lobo",Drama,2007,USD,12679761.86,2.3
+177,1001 Noches,Aventuras,1994,USD,17011825.15,9.1
+178,Propiedad privada (Nue propriété),Drama,2008,USD,2351501.66,1.6
+179,Kamchatka,Drama,1997,USD,18209069.19,3.6
+180,Slipstream,Aventuras,1994,USD,7842918.03,9.9
+181,Sin destino (Sorstalanság),Drama,2007,USD,4745326.7,9.3
+182,lago Eden,Horror,1992,USD,19428482.95,9.1
+183,Bagre en salsa de frijol Negro,Comedia,2006,ARS,18605114.8,1.3
+184,"Pequeño círculo de amigos, una",Drama,2009,USD,9916074.36,5.4
+185,Cacería de brujas,Documental,2001,USD,23038952.56,4.2
+186,Siete años en el Tíbet,Aventuras,2011,USD,10443427.7,1.4
+187,darling Companion,Drama,2010,USD,8424852.55,3.6
+188,Puentes rotos,Drama,2009,USD,3199561.63,4.3
+189,"Con mucho estilo, La",Comedia,2006,USD,15828653.63,9.6
+190,Liquid Sky,Comedia,1997,USD,27254967.25,1.7
+191,Esa ja Vesa - auringonlaskun ratsastajat,Acción,1968,USD,6417621.96,2
+192,Golpeando en las puertas del cielo,Acción,1984,USD,944624.58,6.4
+193,"Misérables, Les",Crimen,2004,USD,26379540.43,7.7
+194,"Inspectores, El",Crimen,2000,USD,3049464.91,4.4
+195,"Atomic Cafe, La",Documental,1995,USD,13039746.27,6.6
+196,17 niñas (17 filles),Drama,1997,USD,18217267.44,4.5
+197,Illat Narrien,Comedia,1998,USD,29156162.93,1.5
+198,"Batalla de amfAR, The",Documental,2004,ARS,19414303.86,7.4
+199,Hecho de sangre firmar mi nombre,Drama,2002,USD,10076774.25,6.8
+200,Susurro del corazón (Mimi wo sumaseba),Animación,1995,USD,16106813.3,3.9
+201,Las balas no discuto,occidental,2008,ARS,10289487.18,5
+202,"Otro día, otra hora: Celebración de la Música de Inside Llewyn Davis",Documental,1993,USD,13438112.35,8.1
+203,Metalstorm: La destrucción de Jared-Syn,Acción,2009,USD,26734622.81,7
+204,"Galo moribundo, El",Drama,1992,USD,5087742.89,5.4
+205,"Para el señor, con cariño",Drama,1994,USD,145363.99,1.8
+206,Para llegar al cielo En primer lugar tienes que morir (Bihisht faqat Baroi murdagon),Drama,2004,USD,2242790.15,2.8
+207,Novias (Nyfes),Drama,2006,ARS,3455395.01,9
+208,Venus,Drama,2003,USD,27319494.21,3.6
+209,Tres hermanos (Tre Fratelli),Drama,1987,ARS,8879324.03,5.6
+210,Cada fin de semana (Un fin de semana sur deux),Drama,2008,ARS,3844973.83,7.6
+211,Hotel,Comedia,2005,USD,27468612.17,4.8
+212,Sutura,Cine negro,2006,USD,28878305.71,2.4
+213,Dios es brasileño (Deus é Brasileiro),Aventuras,2012,USD,1652794.62,2.7
+214,El aspecto manera que él,Drama,1992,USD,7300663.06,9.7
+215,"Blob, El",Horror,1996,USD,2491642.53,7.8
+216,Imparable,Acción,2012,USD,29789364.88,2.7
+217,Ole dole doff,Drama,2000,USD,10851874.93,8.6
+218,Entre ses mains,Drama,2003,USD,16441907.32,5.5
+219,Enfrentamiento en Little Tokyo,Acción,2002,USD,2014258.32,1.6
+220,Péndulo,Drama,2008,ARS,28429224.64,1.9
+221,Bride Flight,Drama,2009,USD,17145785.32,6.7
+222,Cita en Tokio,Documental,2011,USD,23236652.19,3
+223,"Gran éxtasis del escultor de madera Steiner, La (des Große Ekstase Bildschnitzers Steiner, Die)",Documental,1992,USD,25006810.53,2.1
+224,"Rostro en la multitud, A",Drama,2006,ARS,6156142.42,9.8
+225,I.O.U.S.A. (IOUSA alias),Documental,2012,USD,22253485.94,3.8
+226,Diario de una camarera,Drama,1990,USD,25846936.99,5.8
+227,Leprechaun 4: In Space,Comedia,2012,USD,1641220.55,7.9
+228,Castillo de Sangre, ,2007,,,5.2
+229,Infierno en Harlem,Crimen,2006,USD,23650003.74,7.7
+230,"Linguini incidente, el",Comedia,1999,ARS,12922791.28,7.9
+231,Mothlight,Documental,2012,USD,10840446.22,5.8
+232,"Navidad del niño en Gales, A",Niños,2001,USD,11910234.23,5.9
+233,Encuentros Cercanos del Tercer Tipo,Aventuras,2008,USD,6998462.11,2.1
+234,"Hijo del Sheik, El", ,2001,,,2.8
+235,Only Lovers Left Alive,Drama,2000,USD,3513943.05,1.7
+236,Última salida Brooklyn,Drama,2010,ARS,4766655.6,9
+237,"Ejecutor, La", ,2005,,,3.7
+238,muchacha de la mariposa,Documental,1999,USD,25919548.65,2.2
+239,High School Musical 3: Fin de curso,Musical,1995,USD,1749344.81,2.9
+240,"Mujer de Negro, El",Drama,2007,USD,3658206.82,6.4
+241,estadounidense Mary,Horror,2010,USD,7778298.83,1.3
+242,Atascado,Horror,2010,USD,11023902.86,8.6
+243,"Bolsa de hombre, El",Crimen,1993,USD,21374026.6,1.4
+244,Boulevard de Londres, ,2009,,,9.6
+245,En tiempo de brujas (Hungry Wives) (esposa de Jack),Drama,2007,USD,28015949.88,3.5
+246,"Multitud ruge, El", ,1989,,,6.4
+247,Mi pequeño Chickadee,Comedia,2001,ARS,18340471.3,9
+248,"Institutriz, El",Drama,2005,USD,12707029.29,9.1
+249,Libélula, ,2006,,,4.8
+250,"Rey y yo, El",Animación,1992,USD,23223726.85,7.2
+251,Bottle shock,Drama,2013,USD,14283751.54,3.7
+252,51,Horror,2001,USD,17893045.87,7.1
+253,RoboCop 2,Acción,1993,USD,16311545.14,4.7
+254,A partir de la película de B a Cult Film: Western,Aventuras,1998,USD,8027517.73,9.4
+255,"Deep Blue Sea, El",Drama,2009,USD,8054569.27,9.1
+256,Otro yo,Misterio,2012,USD,12878804.19,2.2
+257,Odio el día de San Valentín,Comedia,2012,USD,2268955.76,5.8
+258,Linotype: La Película,Documental,2002,USD,29218067.06,6.5
+259,Renacimiento de Mothra III,Acción,2003,USD,17712231.81,3.8
+260,Lejos del cielo,Drama,2002,USD,4702395.92,5
+261,miss Agente Especial,Comedia,2010,USD,8056752.13,7.6
+262,"La salvación, El",Drama,2007,USD,18156516.77,1
+263,La rivalidad entre hermanos,Comedia,2009,USD,3921638.78,7.3
+264,sunshine Cleaning,Comedia,1993,ARS,756523.48,2.3
+265,Pan Tadeusz: La última incursión en Lituania (Pan Tadeusz),Drama,2004,USD,25705435.73,7.1
+266,chupasangre Freaks,Horror,2009,ARS,19807043.06,5.4
+267,Run Run Silencio Profundo,Guerra,2003,USD,27901860.73,9.4
+268,En sueños,Horror,2007,USD,28411441.59,4
+269,Koti-ikävä,Drama,2001,USD,2887873.88,7.3
+270,Inmundicia,Comedia,2012,USD,22924430.21,8.5
+271,Rasputin,Drama,1993,USD,18281540,2.2
+272,Drácula: Páginas del diario de una Virgen,Horror,2007,USD,23392118.29,2.8
+273,"Traviesa Room, The",Comedia,2011,ARS,22873681.63,2.4
+274,Burton y Taylor, ,2008,,,7.7
+275,Por el mar,Comedia,2008,USD,26239895.56,5.5
+276,Sin miedo Hiena II (Long Teng Hu Yue),Acción,2012,USD,872573.35,4.1
+277,Salaam Bombay!,Drama,2006,USD,15414552.92,2.4
+278,Paisaje en la niebla (Topio stin omichli), ,2009,,,1.4
+279,Fuera de pistas,Acción,2003,USD,13351017.35,4.9
+280,"Asesinato, dice",Comedia,1991,USD,16856321.83,2.5
+281,Usted será mi hijo (Tu seras mon fils),Drama,1993,USD,27407400.05,7.4
+282,Mi Ain Folk,Drama,1998,USD,5769140,8.9
+283,Cortar,Comedia,2008,USD,12857993.14,6.4
+284,"Humanité, L'",Crimen,2001,USD,25425525.44,4.4
+285,Navidad en Conway,Drama,1992,ARS,10158805.05,2.3
+286,Cinderella III: A Twist in Time,Animación,2001,USD,4044439.63,4.9
+287,Abe Lincoln en Illinois, ,2002,,,8.7
+288,Y ahora mi amor (Toute une vie),Drama,2013,USD,1159329.22,6.9
+289,Los chicos del maíz II: el sacrificio final,Horror,2008,USD,20325683.64,6.4
+290,Bugsy,Crimen,1997,USD,2508991.05,5.5
+291,Aplausos, ,2007,,,2.2
+292,Asilo,Horror,2004,USD,4542858.37,2.7
+293,Postura del niño, ,2012,,,2.8
+294,Blow-Up (Blowup),Drama,2009,USD,17778552.81,7.7
+295,Me derrito con tigo,Drama,2000,USD,23613616.76,7
+296,Tumba abierta,Horror,2012,USD,9478797.54,3.6
+297,Territorios con sangre (Koiki bôryoku: ryuuketsu no Shima),Acción,2003,USD,8891373.83,9.6
+298,"Candidato, The (Kandidaten)",Novela de suspenso,2009,USD,22452905.71,4.5
+299,"Amargura del general Yen, El",Drama,1972,ARS,2279051.41,4.1
+300,Secreto de las alas,Aventuras,2007,USD,19801578.54,2.8
+301,Indiscreto,Comedia,1996,USD,3640316.1,1.4
+302,"Última verdugo, La (Pierrepoint)",Drama,1992,USD,7357408,
+303,"Cruce, El",Drama,1995,USD,29723991.08,6.4
+304,Duelo en Diablo,Guerra,1985,USD,24526409.75,6.7
+305,4 Little Girls,Documental,2007,USD,19650337.35,9.9
+306,motosierra Maid,Animación,2001,USD,29763001.05,8
+307,Flirteando con el desastre,Comedia,2004,USD,4489681.85,4.3
+308,Juego sucio,Comedia,2007,USD,5987467.3,9.5
+309,Versus,Acción,2000,ARS,25428107.99,9.7
+310,Invasión Zombie,Comedia,1998,USD,1378148.81,5.9
+311,Réquiem por Brown,Drama,2006,USD,21482721.75,8.9
+312,Pokemon: La Película 2000, ,1994,,,6.2
+313,Auge y caída de Tora-san (Otoko wa tsurai yo: Torajiro aiaigasa),Comedia,2006,USD,15841990.43,3.2
+314,"El mejor amante del mundo, The",Comedia,2007,USD,18523112.44,9.9
+315,Sólo Dios perdona,Drama,2006,USD,623689.29,5.6
+316,Caminante de Scott: 30 Century Man,Documental,1996,USD,1704847.23,1.2
+317,Inauguración de la Cúpula del Placer,Fantasía,2004,USD,7141534.79,9.8
+318,Guyana tragedia: La historia de Jim Jones,Drama,1994,ARS,3805626.44,4.1
+319,Venía de Hollywood,Comedia,1993,USD,25346305.19,3.3
+320,Letra de Jason,Crimen,2003,USD,22468336.53,
+321,Circo de los Horrores,Horror,1991,USD,27637791.5,5
+322,Zero 2,Comedia,2003,USD,14035651.13,3.2
+323,Roba esta película!,Drama,1994,USD,29489598.13,2.6
+324,descenso de la muerte,Drama,1989,USD,17208805.89,1.7
+325,¿Qué harás cuando se captura Me? (Co mi zrobisz JAK mnie zlapiesz?),Comedia,1992,USD,6737144.53,2.1
+326,Secuelas,Acción,2011,USD,22096284.15,5.2
+327,"Zapatos rojos, La",Drama,2008,USD,20291144.72,2.1
+328,Step Up All In,Drama,2005,USD,21601233.44,5.9
+329,"Destino final, The (Destino final 4) (destino final en 3-D, The)",Horror,2012,USD,14742316.47,5.5
+330,"Carta, La",Drama,2002,USD,21375997,9.6
+331,Nada personal,Drama,1999,USD,12702495.59,8.6
+332,La juventud del Hijo,Drama,2002,USD,6079870.42,1.2
+333,Naqoyqatsi,Documental,1992,USD,1711552.63,4.5
+334,Mi mamá es un personaje (Minha Mãe é uma Peça: O Filme),Comedia,2008,USD,15132489.57,9.3
+335,Regreso de los Cazafantasmas,Comedia,2012,ARS,15352921.19,9.2
+336,"El prisionero de Zenda, El",Aventuras,1994,USD,7612352.65,2.5
+337,Kagi (Odd Obsession),Drama,1993,ARS,6828775,4.7
+338,"Accidental del golfista, The (Den ofrivillige golfaren)",Comedia,2003,USD,21339311.5,5
+339,Charles Bradley: Alma de América,Documental,2005,USD,29191351.55,1.6
+340,Barco de esclavos,Aventuras,2005,USD,10740429.36,3.9
+341,Fuegos artificiales (Flores de fuego),Crimen,2007,ARS,5646057.51,4.5
+342,Leprechaun 3,Comedia,1991,USD,13407437.82,4.4
+343,Diario de un Chico en Problemas: Días de Perros,Niños,1992,USD,28813954.97,4.4
+344,Caramelo de hierbabuena (Bakha satang),Drama,2010,USD,15624190.17,1.8
+345,Zarafa,Animación,2009,USD,999847.71,1.1
+346,Johnny Skidmarks,Crimen,2012,USD,4317948.58,9.7
+347,Impreso del arco iris,Aventuras,1996,USD,11393759.13,3.2
+348,No retrocederá,Drama,2007,USD,16889490.82,8.5
+349,"Rover, El",Crimen,1996,USD,25583075.56,6.7
+350,Leviatán,Documental,2005,USD,7172208.69,6.2
+351,El Apocalipsis,Acción,2008,USD,2178848.9,8.3
+352,La boda de Tuya (Tuya de hun shi),Drama,2002,USD,1809203.63,5.7
+353,Vicio inherente,Comedia,2010,USD,26880625.11,3.9
+354,"El hombre, la mujer y la bestia (L'uomo la donna e la bestia)",Drama,2001,USD,23752378.94,8.7
+355,Aladino,Aventuras,1994,USD,19390348.75,9.6
+356,entre Amigos,Crimen,2013,ARS,10096520.6,5.1
+357,Sombras eléctricas (Meng ying tong nian),Drama,2012,USD,15323609.5,7.4
+358,Yu-Gi-Oh !: Bonds Beyond Time (Gekijouban Yuugiou: Chouyuugou Jikuu o koeta Kizuna),Animación,2003,USD,3236928.8,7.3
+359,"Balneario de Battle Creek, El",Comedia,2005,USD,10182303.85,2.1
+360,28 días después,Acción,2002,USD,13400507.11,9.1
+361,Yermo,Drama,1997,USD,27755278.16,3.6
+362,Cose da pazzi,(No hay géneros de la lista),2011,USD,9452361.2,7.1
+363,Lo que el día debe a la noche, ,2010,,,1.2
+364,Estrellas en mi corona,Drama,1988,USD,24793268.03,4.4
+365,"Killing Floor, El",Crimen,2011,USD,9137628.55,5.8
+366,Tormento, ,1992,,,3.5
+367,Noche silenciosa,Horror,1995,USD,20921222.56,9.5
+368,Cocinero,Comedia,1999,USD,9263244.57,6
+369,Cujo,Horror,2007,USD,26343685.94,2.8
+370,"Patriota, El",Acción,1997,ARS,19687213.35,6.8
+371,Lo que acaba de suceder,Comedia,1988,USD,26318278.56,
+372,blackfish,Documental,2010,USD,548198.6,7.1
+373,Patton Oswalt: Tragedia Comedia Plus es igual al tiempo,Comedia,1997,USD,8962885.15,5.5
+374,Mondo Hollywood,Documental,2010,USD,22654523.03,6.5
+375,Cuarteto,Comedia,1998,USD,2304810.73,7.3
+376,Volver a House on Haunted Hill,Horror,1998,USD,17302913.21,6.4
+377,Hechizado,Misterio,2006,USD,26780055.01,
+378,Comando Hamilton (Hamilton),Acción,1995,USD,3630636.56,2.5
+379,Winnie the Pooh y el bosque encantado,Animación,1986,USD,6131093.5,6.9
+380,Regreso a Bountiful,Drama,1963,USD,27424262.78,3.6
+381,Expulsado,Comedia,1976,USD,1184796.9,1.8
+382,"Liquidador, El",Acción,2004,USD,17634454.1,6.8
+383,Viendo a los Detectives,Comedia,1998,ARS,29800954.08,7.4
+384,Dead Set,Comedia,2007,USD,15916061.67,2.8
+385,Torment (Hets),Drama,1992,USD,16665237.44,5.8
+386,Drácula (Dracula de Bram Stoker),Fantasía,1998,USD,5833865.03,5.9
+387,Jönssonligan cercanos Mallorca,Comedia,1998,USD,3514811.72,1.8
+388,Sombras y niebla,Comedia,2007,USD,21301137.92,5.9
+389,"O Auto da Compadecida (Voluntad de perro, A)",Aventuras,1997,USD,10357831.31,1.3
+390,Lourdes,Drama,2001,ARS,29355444.62,9.8
+391,"Aventuras de Pinocho, El",Aventuras,2002,USD,12369367.23,9.4
+392,"El cardenal, El",Drama,2012,USD,22924789.4,7
+393,"Rey Pescador, El",Comedia,1996,USD,16525433.1,8.7
+394,las niñas,Comedia,1987,USD,9931888.93,9.6
+395,alto atado,Comedia,1998,USD,6099412.22,8.6
+396,Good Time Max,Drama,1996,USD,8344049.13,8
+397,Cepo,Comedia,2009,USD,19716079.88,4.7
+398,Tesla: Maestro del Rayo,Documental,2003,USD,1000826.03,9.2
+399,"La paz, la propaganda y la tierra prometida",Documental,2005,USD,21836039.14,6.6
+400,Vertical Features Remake,Documental,1992,USD,3547303.71,9.6
+401,"Día en el País, A (Una partida de campo)",Drama,2009,USD,10583032.62,8.8
+402,El último escalón,Horror,2004,USD,25614878.74,2.3
+403,Midnight Movie,Horror,1998,USD,1396386.44,5.1
+404,Sky Montana,Drama,2012,USD,15596481.98,6.8
+405,Decodificación Annie Parker,Drama,1995,USD,2759540.68,2.6
+406,¿Dónde está Marlowe?,Comedia,2003,USD,14742684.61,6.9
+407,Deporte sangriento,Acción,2001,USD,2619548.82,2.4
+408,Señor y Señora Smith,Comedia,1999,USD,8409509.51,9.2
+409,La cravate, ,2012,,,3.4
+410,Achicarse,Comedia,1994,USD,29276575.68,3.7
+411,Sarafina!,Drama,2012,USD,23615796.95,9.5
+412,Muy Annie María,Comedia,1995,USD,829701.77,2.5
+413,Visitante a un (muzeya Posetitel) Museo,Ciencia ficción,2005,USD,225566.89,1.5
+414,"Mansión de los crímenes, El",Horror,1992,USD,7175446.97,7.1
+415,el Cid,Acción,2003,USD,206259.76,1.5
+416,Metro de August Mordum,Horror,2009,USD,2705405.42,1.7
+417,Fe ciega,Drama,2006,USD,24197312.65,8.7
+418,Bombay Beach,Documental,2007,ARS,12461338.78,5.3
+419,"Tall Men, El",Acción,2010,USD,28943602.76,6.4
+420,Fantasma de Barbanegra,Niños,1998,USD,11024382.38,3.9
+421,"Thin Man, El",Comedia,1987,USD,10631348.18,9.8
+422,Warrendale,Documental,2007,USD,640213.1,7.5
+423,"4ª Planta, El",Novela de suspenso,1992,USD,29822533.21,5.7
+424,Air Force One,Acción,2008,USD,8454796.87,1.1
+425,Unhung Hero,Documental,1985,USD,29836902.06,1.8
+426,"Ciempiés humano, La (primera secuencia)",Horror,2002,USD,29845756.5,5.4
+427,Al igual que yo (Igualita a mí),Comedia,2012,USD,16839702.69,
+428,"Pont du Nord, Le",Comedia,2009,USD,5463310.25,2.5
+429,Hacia la noche,Acción,2006,ARS,14382533.11,5.3
+430,Cohen y Tate,Crimen,1999,USD,11721404.26,7.7
+431,Ruptura,Comedia,1986,USD,22774374.42,8.7
+432,Sentido perfecto,Drama,2006,USD,18292385.01,1.6
+433,"Buona Sera, Mrs. Campbell",Comedia,1994,USD,18246576.44,4.6
+434,"Damas de hierro, La (Satree lek)",Comedia,1987,USD,5249645.35,7.1
+435,"Singer, The (Quand j'étais chanteur)",Drama,2005,USD,29336313.51,7.1
+436,"Conde Drácula (Nachts, wenn Drácula erwacht)",Horror,1998,USD,21495552.91,9.3
+437,"Ansiedad del portero ante el penalti, The (Die Angustia des Tormanns beim Elfmeter)",Drama,2005,USD,10282772.59,3.4
+438,Tuareg: El Guerrero del Desierto (Tuareg - Il Guerriero del deserto),Acción,2005,USD,27231664.27,1.5
+439,Plan de escape,Acción,2004,USD,19102917.12,5.8
+440,Dallas,occidental,1990,USD,12261074.85,7.5
+441,Fuego de respiración,Acción,2001,USD,26560202.39,6.9
+442,Ir derecho,Crimen,2008,USD,26387700.2,6.5
+443,zulú,Crimen,1987,USD,5453758.92,5.5
+444,Ángeles con caras sucias,Crimen,1991,USD,26277326.72,7.7
+445,Santo laurent,Drama,2000,ARS,13274583.15,
+446,Accattone,Drama,2002,ARS,24373772.81,8.6
+447,Tardes de Gaudí,Comedia,2010,USD,5646993.81,8.3
+448,Odette comedia sobre la felicidad,Comedia,2011,ARS,18764467.98,
+449,Chicago, ,1984,,,5.9
+450,Una semana,Comedia,2001,ARS,26249980.13,7.9
+451,Riot On!,Documental,2011,USD,12757289.97,6.2
+452,Jim Jefferies: Alcoholocaust, ,1993,,,6.8
+453,Los 11 Mandamientos,Comedia,2012,USD,28860988.85,1.3
+454,Vi lo que hicisteis,Novela de suspenso,2006,USD,2394879.66,9.8
+455,Palacio de Verano (Yihe yuan),Drama,2001,USD,17160836,3.8
+456,Adiós Bin Laden,Animación,1992,USD,15095906.81,2.4
+457,Frankenstein de Mary Shelley (Frankenstein),Drama,2011,USD,13766248.07,7.9
+458,El pie plano en el Nilo (Piedone d'Egitto),Acción,2005,USD,13819241.74,8.3
+459,"Cañas, El",Acción,2002,USD,56772.67,9.2
+460,"La peste perros, La",Aventuras,1988,USD,2110025.7,6.9
+461,"Detective, El",Crimen,2008,USD,6435061.51,3.1
+462,"La vida privada de Sherlock Holmes, El",Comedia,1996,USD,2397775.91,
+463,Amante,Comedia,2005,USD,24553703.43,9.3
+464,"Secuestro no intencional de la señora Elfriede Ott, The (Die Unabsichtliche Entführung der Frau Elfriede Ott)",Comedia,1959,USD,7683155.09,6
+465,Iluminar desde el fondo,Drama,1995,USD,7514087.84,5.2
+466,Comando suburbano,Comedia,2005,ARS,23625588.31,5.8
+467,"Viajero, El",Horror,2007,USD,13732964.6,6
+468,"Bucket List, La",Comedia,1999,USD,9910126.34,7.5
+469,Persona especial,Comedia,2004,USD,16020885.27,3
+470,noviembre,Drama,2008,ARS,712887.45,8.7
+471,Tabla 7,Comedia,1995,USD,628292.47,2.7
+472,Dead & Buried,Horror,2009,USD,4593339.27,9.4
+473,Snowriders,Documental,2002,USD,5158182.36,2.8
+474,Hermano (palo de golf),Crimen,2002,USD,4522334.18,5.3
+475,The Bone Snatcher,Horror,2008,ARS,6886579.83,9
+476,Pelicula casera,Horror,2007,USD,19264647.99,4.9
+477,They Call Me Mister Tibbs!,Crimen,2006,ARS,3346018.3,4
+478,"Cuento de otoño, An (Conte d'automne)",Romance,1991,ARS,6920834.97,4.9
+479,Las muñecas rusas (Les poupées russes),Comedia,2010,USD,4833565.8,5.5
+480,Extraño en el vagabundeo (Imbarco un mezzanotte),Drama,2006,USD,12704241.34,5.9
+481,Ciego,Drama,2003,USD,7542810.14,3
+482,Chico hermoso,Drama,1990,USD,3450717.85,3.6
+483,La máquina del amor,Drama,2002,USD,21927130.54,7.3
+484,Caballeros de Bloodsteel,Fantasía,1995,USD,8927402.39,2.7
+485,"Cruda Realidad, La",Comedia,2006,USD,12646074.01,9.2
+486,Ataque de la gente de la seta (Matango),Fantasía,2009,USD,28303996.09,6.4
+487,"La mujer del viajero en el tiempo, El",Drama,1993,USD,5782764.35,3.2
+488,muchacha de la mariposa,Documental,2002,USD,27261464.64,8.7
+489,Final de las áreas residenciales: agotamiento del petróleo y el colapso del sueño americano,Documental,1986,USD,11926761.58,4.2
+490,Víctor y el Secreto de cocodrilo Mansión,Aventuras,1997,USD,3637611.8,6.5
+491,No hay tiempo para el amor,Comedia,2003,USD,18889393.61,3.7
+492,2012: Supernova,Acción,1991,USD,27194444.6,2.6
+493,Hunter presa,Ciencia ficción,2004,USD,15685467.32,9.3
+494,Métisse (Café au Lait),Comedia,2012,USD,15157520.63,
+495,"Verdades ocultas, A",Drama,2000,ARS,3639184.06,6.8
+496,Fitzcarraldo,Aventuras,1999,USD,10371061.83,1.7
+497,Love Sick (Legaturi bolnavicioase),Drama,1985,USD,11010163.27,3.2
+498,"Última Klezmer: Leopold Kozlowski, su vida y la música, La",Documental,2001,USD,17193972.36,6.8
+499,el coche fúnebre,Drama,1992,USD,5468404.52,6.3
+500,Atención,Drama,1993,USD,16991683.38,3.2
+501,Carandiru,Crimen,1998,USD,25697587.56,5
+502,La cabeza en las nubes,Drama,1996,USD,1660296.15,8.5
+503,Edvard Munch,Drama,2007,USD,14180747.28,6.2
+504,"El cuento de la princesa Kaguya, La (Kaguyahime sin monogatari)",Animación,1985,USD,429207.63,10
+505,cruce de destinos,Aventuras,1996,USD,11900319.56,5.6
+506,"Hora de los niños, El",Drama,1992,USD,26887419.68,1.9
+507,"La esposa del buen abogado, A (Baramnan gajok)",Drama,2009,USD,27633394.7,4
+508,Sarah Silverman: Somos Milagros,Comedia,2002,ARS,16609707.57,2.1
+509,Ana de las tejas verdes,Niños,2004,USD,25994731.24,8.7
+510,"Historia de dos ciudades, A",Drama,1998,USD,1646136.86,4.4
+511,Iron Man 3,Acción,2005,USD,16025774.65,4.3
+512,"La paz, la propaganda y la tierra prometida",Documental,1996,USD,19835515.11,8
+513,Jonás Quién será el 25 en el año 2000 (Jonas qui aura 25 ans en l'an 2000),Comedia,1992,USD,29004693.67,8.5
+514,02:37, ,2010,,,8.1
+515,Desde que se fue Otar (Depuis qu'Otar est parti ...),Drama,1998,USD,28806284.69,1.3
+516,"Persona que llama, El",Horror,2012,USD,7646594.47,
+517,Juego sucio,Comedia,1994,USD,24172529.1,4
+518,Solo en la oscuridad, ,1992,,,7.8
+519,Días de fútbol,Comedia,1989,USD,26148689.22,5.8
+520,Azúcar,Drama,1991,ARS,24863588.73,6.4
+521,Realizar un seguimiento del gato,Drama,2003,USD,18722357.28,3.8
+522,Las realidades de aro,Documental,1993,USD,5018964.02,3.9
+523,El secreto de vivir a la ciudad,Comedia,2009,USD,29916502.98,3.7
+524,Mis vecinos los Yamada (Hôhokekyo Tonari no Yamada-kun),Animación,2012,USD,13052351.28,7.2
+525,Ida,Drama,1992,USD,21156204.17,4.4
+526,Después de la puesta del sol,Acción,2008,USD,6292732.89,2.4
+527,"Big Country, El",Romance,2012,USD,16650399.37,6.5
+528,"Pozo y el péndulo, El",Horror,1986,USD,29862559.89,9.7
+529,Tokio!,Drama,2003,USD,767476.53,7.9
+530,"Bala por Joey, A",Crimen,2001,USD,16227731.18,5.2
+531,Jack el destripador,Crimen,1993,USD,9226168.8,9.8
+532,Pot v raj,(No hay géneros de la lista),1997,USD,20031121.37,2.8
+533,Paradise Lost: Los crímenes de los niños en Robin Hood Hills,Documental,1992,USD,25876804.94,3.8
+534,¡Ayuda!,Comedia,2009,USD,8992676.12,8.2
+535,Objetivo,Acción,2002,USD,5298462.59,7.9
+536,Carretera asfaltada en dos direcciones,Drama,2010,USD,14922681.06,8
+537,Housefull 2,Comedia,1995,ARS,1940488.32,1.7
+538,Diablo de las aguas,Aventuras,2009,USD,19488217.67,8.8
+539,romano,Drama,1989,USD,19541833.59,8.1
+540,todavía Bill,Documental,2010,USD,11943817.23,4.3
+541,"Snit grande, El",Animación,2009,USD,29172382.45,7.5
+542,su regeneración,occidental,2009,USD,6214812.09,7.1
+543,Detective,Comedia,2003,USD,27934280.46,1.2
+544,Empezar de nuevo,Comedia,1995,ARS,23286368.44,4.6
+545,Fausto 5.0,Horror,1969,USD,13232252.97,4.8
+546,Número afortunado Slevin,Crimen,2009,USD,10978728.51,4.6
+547,"Chica de la motocicleta, El",Drama,2000,USD,26086519.08,9
+548,En Fútbol confiamos,Documental,2005,USD,12267693.24,4
+549,Dead Space: Aftermath,Animación,2006,USD,4215006.12,3.6
+550,"Diablo comandos, el",Horror,2010,USD,20458423.69,3.9
+551,Cohete Singh: Vendedor del Año,Comedia,2001,USD,24200247.88,7.6
+552,Shanghai beso,Comedia,2005,USD,12875470.94,4.7
+553,Guardabosques,Acción,2007,USD,1216832.24,4.2
+554,Lado B,Comedia,2005,USD,4840594.15,8.8
+555,Un maestro constructor,Drama,2004,USD,15264289.67,8.1
+556,reina de corazones,Comedia,1999,USD,28906129.22,6.8
+557,Repo! The Genetic Opera,Fantasía,2007,USD,11579322.86,1.6
+558,Después de la imagen (ver en la oscuridad),Drama,2001,USD,25833642.14,6.3
+559,Beastie Boys: Sabotage,(No hay géneros de la lista),1993,USD,466232.42,9.5
+560,Ciudad de Dios (Cidade de Deus), ,2002,,,2.2
+561,Capturing Mary,(No hay géneros de la lista),1998,USD,10239574.9,8.5
+562,Conversaciones con otras mujeres,Comedia,1998,USD,16765732.59,6.2
+563,La distancia,(No hay géneros de la lista),2005,USD,4554279.06,2.4
+564,Dadetown,Drama,1999,USD,8918798.15,9.6
+565,"Extranjero Predator (Mutant II) (Caer, The)",Drama,1995,USD,22204312.09,5
+566,Red Riding: 1980,Crimen,2001,ARS,23760461.91,9.9
+567,Flecha rota,Acción,1989,USD,20413476.98,4.7
+568,Ocean Heaven,Drama,1994,USD,10607497.11,5.6
+569,Hermosa Ciudad (ziba Shah-re),Drama,2005,USD,25999960.67,10
+570,El hijo de Drácula,Horror,2000,USD,8633806.04,7.6
+571,Delta de Venus,Drama,2000,USD,15730002.88,7.9
+572,Plancton,Horror,2003,USD,3959673.34,
+573,"Extraño, La (Agantuk) (Visitante, La)",Drama,1995,USD,15087244.4,6.8
+574,Vinilo,Documental,1996,USD,5824209,5.3
+575,Inhalar,Drama,2003,USD,17441011.73,1.8
+576,Sanshiro Sugata (judo Saga) (Sugata Sanshirô),Acción,2009,USD,3585737.94,4.9
+577,Dedos,Drama,2011,USD,3390533.63,9.6
+578,Prisionero del paraíso,Documental,1987,USD,4619497.89,7.9
+579,"Cool World, La",Crimen,1987,USD,1488458.65,8.4
+580,2 Become 1 (estaño sol yut dui),Comedia,1978,USD,19206247.62,5.9
+581,"Llaves de casa, El (Chiavi di casa, Le)",Drama,1995,USD,17988366.51,2.4
+582,Cleanflix,Crimen,2011,ARS,12903281.9,8.7
+583,El tren D,Comedia,1984,USD,14664171.65,6.8
+584,"La paciencia de piedra, El",Drama,2008,USD,12174601.22,1.3
+585,"La leyenda de Sleepy Hollow, El",Animación,1998,USD,22816868.27,8.3
+586,Fiel,Comedia,2004,USD,12555641.2,7.6
+587,Por el pinchazo de mis pulgares (Mon petit doigt m'a DIT ...),Comedia,2005,USD,2973502.96,5.6
+588,Saving Face,Comedia,1990,USD,20278792.08,4.2
+589,Yo soy la Juani (Yo soy la Juani),Comedia,1992,USD,705084.99,
+590,A la deriva (À Deriva),Drama,2001,USD,18646624.16,4.2
+591,Citizenfour,Documental,1969,USD,9191533.12,5.1
+592,Jerichow,Drama,2000,USD,26836029.03,7
+593,Belleza del día (Belle de jour),Drama,1992,USD,20645224.76,9.5
+594,zebrahead,Drama,1998,USD,11588221.62,10
+595,La lucha contra Elegy (Kenka erejii),Acción,1984,ARS,29921304.09,3
+596,Demetrio y los gladiadores, ,2000,,,6.5
+597,Una casa de secretos: Exploring 'Dragonwyck',Documental,2011,ARS,25009285.71,2.5
+598,Little Big Soldier (Da Bing Jiang Xiao),Acción,1988,USD,4667366.13,2.2
+599,Paris Is Burning,Documental,2011,USD,17608767.55,2
+600,"Los piratas que no hacen cualquier cosa: A VeggieTales Movie, Los",Aventuras,2005,USD,2295108.74,7.8
+601,"La misma luna (Luna Misma, La)",Drama,2007,USD,10401793.22,7.1
+602,"Espejo, La (Zerkalo)",Drama,2010,USD,12202919.41,
+603,Calvario,Comedia,2000,USD,11561915.8,1.5
+604,Juan de los muertos (Juan de los Muertos),Comedia,1963,USD,28347094.48,3.3
+605,Callejón sin salida,Crimen,1994,USD,9697883.97,5.8
+606,"Descubrimiento del cielo, El",Drama,1992,USD,10125069.37,7.6
+607,Everest,Documental,2008,ARS,1664884.76,4.4
+608,El ladrón Justo,Aventuras,2003,USD,4356047.25,1
+609,"Navigator, El",Comedia,2009,USD,15399858.09,9.8
+610,Macbeth,Drama,1993,USD,24116384.4,5.8
+611,"Los enemigos de la razón,",Documental,2011,USD,5398440.19,1.6
+612,"Muy cosa natural, un",Drama,2003,USD,6024641.96,6.9
+613,Flor y granate,Drama,2010,ARS,13382583.08,8.1
+614,Comodidad sureña,Documental,1996,USD,29913861.63,9
+615,Planeta del terror,Acción,2004,USD,27109092.08,6.4
+616,Bill Maher: La victoria comienza en casa,Comedia,2012,USD,26018587.45,2.7
+617,Terminator 3: Subida de las máquinas,Acción,1994,USD,190708.68,1.5
+618,Lo mejor de mi,Drama,1993,USD,23437031.7,2.2
+619,Mar de amor,Crimen,1993,USD,14329983.31,5.6
+620,Generation Kill,Drama,2005,USD,8755150.42,7.2
+621,"Oscuro, La",Horror,2003,ARS,2648540.06,
+622,"De profundidad, el (Djúpið)",Drama,2002,USD,15945442.89,2.4
+623,Mi alma a tomar, ,2009,,,1.9
+624,"Deadly freza, El", ,2005,,,4.8
+625,"El suicidio Shop, La (Le Magasin des suicidios)",Animación,1999,USD,25167117.93,8
+626,"Guía del pervertido de Cine, La",Documental,2004,USD,13075911.43,1.3
+627,Underworld U.S.A.,Crimen,2012,USD,22109361.98,5
+628,Homenaje,Drama,2000,USD,26555466.1,2.9
+629,Gordon carne,Aventuras,1992,USD,12724159.51,4.6
+630,Agentes femeninos (Les femmes de l'ombre),Drama,2004,USD,5816708.91,3.2
+631,"Eso es entretenimiento, Parte II",Documental,2007,USD,4161996.66,1.5
+632,"Tomemos, El",Crimen,2008,USD,82793.45,5.5
+633,Aces High,Acción,1994,ARS,8329046.36,3.4
+634,Un poliziotto scomodo,Acción,1995,USD,5160818.47,6.4
+635,Super Duper Alice Cooper,Documental,2008,USD,21269044.74,4.6
+636,Eureka (Yurika),Drama,2000,USD,1093270.25,6.6
+637,Paralelas,Ciencia ficción,2010,USD,22133580.71,3.2
+638,"Pequeña princesa, El",Niños,1999,USD,13235471.11,5
+639,Tabú: Una historia de los mares del sur,Drama,2008,ARS,28621138.28,
+640,Isla de las almas perdidas,Aventuras,2005,USD,19989941.54,9.2
+641,Escarpado,Documental,2011,USD,15865891.79,2.6
+642,"Hitcher, El", ,2001,,,1.7
+643,Bloody Pit of Horror (Il boia Scarlatto) (vírgenes para el verdugo),Horror,1990,USD,3158214.44,2.7
+644,Connie confidencial,Niños,2000,USD,9881904.26,7.1
+645,Grosse Pointe Blank,Comedia,2004,USD,8912342.81,7.1
+646,Marie-Jo y sus amantes 2 (Marie-Jo et ses amours 2), ,2009,,,8.4
+647,36 Quai des Orfebres (Departamento 36),Acción,1991,USD,19749052.07,7.7
+648,Love Streams,Comedia,1997,USD,21864105.48,9.9
+649,Star Trek V: La última frontera,Acción,2011,USD,201153.92,2.6
+650,Desván,Crimen,1996,USD,13385558.71,4.8
+651,Hannibal Rising,Drama,2003,USD,16043365.82,7.3
+652,El rey de Nueva York,Crimen,2010,ARS,5842245.28,5.2
+653,Lumumba,Drama,2012,USD,4808308.43,2.2
+654,Soporte pasado en Río Sabre,occidental,2010,USD,7339970.96,9.3
+655,"De estación está en llamas - The Movie, es decir !, El (Stinsen brinner ... filmen alltså)",Comedia,1991,USD,29331825.14,5
+656,"Profecía 3: El Ascenso, La",Horror,1987,USD,17061398.91,9.5
+657,RFK debe morir: El asesinato de Bobby Kennedy,Documental,1992,USD,243776.97,8.8
+658,En la piel de une grande,Comedia,1987,USD,9995289.33,6.2
+659,Isla de la quema Damned (La noche de los sobornados),Horror,1992,USD,27446442.26,1.1
+660,Cautivo del corazón: La historia de James Mink,Drama,2000,USD,11578171.34,4.2
+661,Marwencol,Documental,2008,USD,29525658.61,7.5
+662,Gangster americano,Crimen,2011,USD,13046488.95,9.7
+663,"Kuroneko (Gato Negro del Grove, La) (Yabu no Naka no Kuroneko)",Drama,1996,USD,16460840.04,8.7
+664,Fortaleza de Brest (Brestskaya krepost),Acción,1996,USD,23504565.69,2.7
+665,"Misérables, Les",Crimen,1989,USD,11260239.9,4.2
+666,Uña y carne,Crimen,2000,USD,21408880.96,5.7
+667,"Rutles 2: ¿No me compra almuerzo, El",Comedia,1992,USD,20308193.51,7.4
+668,"Asesinato (Ansatsu) (asesinato, The) (Creed, The)",Acción,1994,USD,25326753.95,6.6
+669,Compulsión,Drama,1987,USD,11734039.22,
+670,"Home Song Stories, The",Drama,2013,USD,12381857.6,6.7
+671,Resident Evil: Retribution,Acción,2012,USD,24353134.36,4.4
+672,Zona fronteriza,Crimen,2007,USD,15894848.93,5.7
+673,På sista versen,Comedia,1992,USD,24290332.89,7.4
+674,Señor,Drama,1992,USD,21771749.94,5.9
+675,En directo desde Bagdad,Drama,1984,USD,26931308.19,9.5
+676,Nicht mein Tag,Acción,1985,USD,27783814.59,7.3
+677,Señor de las Lágrimas,Drama,2010,USD,3430750.36,5.1
+678,Video casero,Drama,2010,USD,23507079.77,8.8
+679,Me y Morrison (Minä ja Morrison),Romance,1999,USD,17240542.73,5.1
+680,"Hombre y una mujer, una (Un homme et une femme)",Drama,2009,ARS,801858.65,3.5
+681,"Halcón y la flecha, El",Acción,2012,ARS,3578761.67,8.3
+682,Condenados,Crimen,2010,USD,13391247.33,9.7
+683,"Jane Austen Book Club, El",Drama,2011,ARS,9831624.51,9.8
+684,"Hypnotist, The (Hypnotisören)",Novela de suspenso,1994,USD,22737371.05,
+685,Por su cuenta (también conocido como mi aprendizaje) (V lyudyakh),Drama,2007,USD,14172921.12,4.3
+686,miss Agente Especial,Comedia,2005,USD,5168553.05,3.8
+687,"Viaje, el",Comedia,2012,USD,12436784.71,5
+688,El Pacífico,Acción,2006,USD,24221152.46,9.3
+689,Procedencia Leyenda,Drama,2012,USD,22544668.61,4.5
+690,En el nombre del padre,Drama,1987,USD,9607098.94,1.7
+691,"Humaine (question humaine, La)",Drama,1999,USD,17800850.05,5.6
+692,Godzilla contra MechaGodzilla (Gojira tai Mekagojira),Acción,1998,USD,15674716.49,4.6
+693,UCP,Comedia,1994,USD,17437603.59,3.8
+694,Pueblo de Halloween,Aventuras,2010,USD,16011476.66,1.8
+695,Bloody Pit of Horror (Il boia Scarlatto) (vírgenes para el verdugo),Horror,2012,USD,20287788.53,8.5
+696,Restos mal (Trespassing),Horror,2012,USD,23539406.37,4.3
+697,Búsqueda de la Bestia,Horror,1999,USD,28486476.11,4.7
+698,humpday,Comedia,2007,USD,14982797.62,3.8
+699,Washington Heights,Drama,2006,USD,16171720.69,5.7
+700,"Condición Humana I, La (Ningen no Joken I)",Drama,1999,USD,10033793.88,9.3
+701,Short Eyes,Drama,2004,USD,4910006.15,2.7
+702,Alrededor del mundo,Comedia,1995,USD,24399718.42,4.6
+703,"Aventuras de Ford Fairlane, El",Acción,2003,USD,8802748.89,8.7
+704,Corazones indomables,Aventuras,2011,USD,21005159.69,1.4
+705,Dylan Dog: Los muertos de la noche,Comedia,2010,ARS,25075045.81,2.1
+706,35 y marcando,Romance,2002,USD,20362650.81,6.7
+707,Más acerca de los niños de Noisy Pueblo (alias más acerca de los niños de Bullerby Village) (Mer om oss granero i Bullerbyn),Niños,2003,USD,17450968.06,5.7
+708,"Condenados, La",Crimen,2005,ARS,11770374.06,2.6
+709,cine Verite,Drama,2006,USD,16837668.51,1.2
+710,Excesivo,Acción,1990,ARS,10027133.21,5.6
+711,Viendo hacia adelante, ,2006,,,3.4
+712,Daltry Calhoun,Comedia,1998,USD,3758932.8,4.3
+713,hit Man,Crimen,2008,USD,18843390.16,9.9
+714,María de Escocia,Drama,1993,USD,1982960.16,7.2
+715,babylon 5, ,1989,,,3.7
+716,"Despertador de estar, el",Comedia,2002,USD,23126869.97,3.8
+717,"Reckoning, The",Crimen,2001,USD,25562204.79,6.3
+718,Los ratones 3 Ciegos,Crimen,2000,USD,7486070.84,1.2
+719,Cazador de demonios,Acción,2002,USD,18744891.36,3.8
+720,Chantaje,Acción,1966,USD,3250587.4,7.5
+721,AM1200,Horror,1986,USD,24417282.29,5.8
+722,En sus sueños (Dans TES rêves),Drama,2005,USD,17631244.57,9.9
+723,Una vez más joven,Fantasía,2003,USD,12924882.29,8
+724,American Gun,Drama,2004,ARS,17266782.73,2.2
+725,tigre vudú,Aventuras,2010,USD,15799276.35,2.7
+726,Small Wonders,Documental,1964,USD,25889149.17,4.6
+727,Outland,Acción,2008,USD,27958398.93,6.2
+728,Escuela de alta Hellcats,Crimen,2001,USD,3198754.18,1.8
+729,Uno dos tres,Comedia,2000,USD,25594922.66,2.3
+730,"Extraña pareja, otra, El",Comedia,1993,USD,14745950.03,8.9
+731,Anatomía gruesa (también conocido como un corte sobre),Comedia,2010,USD,23325469.53,1.1
+732,"Sígueme, muchachos!",Comedia,2008,USD,19967574.63,3.6
+733,Macabro,Horror,2006,USD,12306910.98,2.3
+734,¿Quién mata a los grandes chefs?,Comedia,2012,USD,9879666.75,3.6
+735,Casi 18,Comedia,2011,USD,2309872.31,2.7
+736,Martes con mi viejo profesor,Drama,2012,USD,15685907.39,9.5
+737,"Newburgh Sting, The",Documental,2006,USD,22494808.83,5
+738,Malas hierbas,Drama,1994,USD,6585278.28,2.6
+739,Hotel de Love,Comedia,2005,USD,5269762.57,9.9
+740,"Bonheur, Le",Drama,1998,USD,16879726,5.7
+741,Arcángel,Comedia,1992,USD,14316736.7,1.7
+742,Tierra de chato,occidental,1993,USD,26916932.11,2.3
+743,El misterio Estudio asesinato,Misterio,1988,USD,12183980,3.5
+744,Mar Negro,Aventuras,1984,USD,22689458.58,7.8
+745,Evangelion: 3.0 Usted puede (no) Redo,Acción,2008,ARS,8513783.24,4.5
+746,Country Strong,Drama,1995,USD,29579917.94,1.8
+747,Accidente sin huella (Que la bête Meure),Crimen,1995,USD,1667556.74,7.1
+748,cometas, ,1993,,,
+749,"Prestige, La",Drama,1985,USD,22082069.23,6.7
+750,¡Objetivo! El sueño comienza (Goal!),Drama,2007,USD,25486502.02,
+751,"Lunar en el sol, Un",Drama,1996,USD,8013804.33,7.2
+752,"Diosa, El",Drama,2001,USD,15084802.87,2.1
+753,Ruptura,Comedia,1994,USD,22076461.73,7.9
+754,El Sr. Vicente,Drama,1993,USD,20734192.22,3.9
+755,El Gran Secuestro,Acción,1995,USD,10606873.87,8.8
+756,"Bugs Bunny / Road Runner Película, La (también conocido como La Gran Caza de América)",Animación,2006,USD,24526136.14,
+757,Celine y Julie ir en bote (Celine et Julie vont en bateau),Drama,2010,USD,18765006.88,1.9
+758,"Lugar en la mesa, una",Documental,1967,USD,23214870.71,6.9
+759,Voy a seguir hacia abajo,Drama,2010,USD,14635767.66,8.5
+760,"Enemigo del pueblo, An (Ganashatru)",Drama,2010,ARS,9992467.19,9.9
+761,Control de la ira,Comedia,2010,USD,28160808.52,4.2
+762,La construcción de la Inferno: Nobuo Nakagawa y la realización de 'Jigoku',Documental,2001,USD,15741516.11,5
+763,Mantenga su Derecha Arriba,Comedia,2006,USD,7196492.33,4
+764,"Charol Kid, The",Drama,1964,USD,7486685.08,8.8
+765,nacido imprudente,Acción,2001,USD,25582160.84,3.7
+766,El señor Buddwing,Drama,1988,USD,12273917.46,
+767,"Deseos de verano, sueños de invierno",Drama,2008,USD,22096658.94,3.4
+768,Misericordia,Crimen,1992,USD,21015331.13,4.3
+769,El Príncipe Verde,Documental,2012,ARS,25978253.23,9
+770,Mio para siempre,Crimen,2008,ARS,23280359.6,6.2
+771,Parque Jurásico III,Acción,2004,USD,28777628.58,5
+772,Caras de la muerte 2,Documental,1992,USD,23482172.72,8.8
+773,"Chaqueta, La",Drama,2007,USD,24469402.86,7.1
+774,del coche de carreras,Comedia,1995,USD,19849648.89,6.1
+775,"Gendarme se casa, El (Le gendarme se marie)",Comedia,2003,USD,16227012.71,3.1
+776,Equus,Drama,2008,USD,23647776.73,9.2
+777,"Desconocido de la mujer, La (Tuntematon emäntä)",Documental,1990,USD,19987598.09,1.9
+778,"Rastreo lado, la",Horror,2004,USD,10437524.78,7.4
+779,"Fin de San Petersburgo, La (Konets Sankt-Peterburga)",Drama,2006,USD,25034091.62,4.3
+780,Lápiz labial, ,2001,,,8.9
+781,Cuatro bolsas llenas,Comedia,1996,ARS,29364046.07,2.4
+782,"Dark Angel, El",Drama,1993,USD,21328661.62,7.2
+783,Cuna del Miedo,Crimen,1997,USD,1103155.87,8.8
+784,Sólo un suspiro,Drama,2011,USD,7476115.32,1.8
+785,Blow-Up (Blowup),Drama,2005,ARS,11023947.59,5.8
+786,Todo debe irse,Comedia,1998,USD,9548794.52,8.1
+787,Strange Brew,Comedia,1976,ARS,16259670.68,8
+788,Cabeza de calabaza,Horror,2006,USD,11903631.99,9.3
+789,Corazones tomados prestados (Corazones: Un romance de vacaciones),Drama,1989,USD,12412237.7,5.8
+790,Jinete facil,Aventuras,2008,USD,13411471.81,9.5
+791,Capitán Phillips, ,2011,,,7.5
+792,"Sin miedo monstruos, El",Documental,2009,USD,709761.64,4.4
+793,Una niña camina a casa solo por la noche,Horror,2006,USD,1351015.08,4.7
+794,En buena situación,Comedia,2003,USD,6673384.76,7.5
+795,La distancia, ,1996,,,9.1
+796,"Los blancos salvajes y maravillosas de Virginia Occidental, El",Documental,2009,USD,29641250.15,2.7
+797,Perdido en Siberia (Ausgerechnet Sibirien),Comedia,2003,ARS,1896731.97,3
+798,"Cañón, El",Novela de suspenso,2003,USD,22337340.25,5.9
+799,Cuando la Red Fern Grows,Drama,2010,USD,12052951.34,5.6
+800,Gigantesco,Comedia,2010,ARS,16671571.48,8.7
+801,Buena suerte,Drama,2011,USD,28384562.83,1.8
+802,Sucede cada primavera,Comedia,1988,USD,22105713.61,4.8
+803,Acorazado 2: Batalla por la sangre,Acción,2012,USD,22387823.62,1.5
+804,En los reinos de lo irreal,Animación,2009,USD,16874052.8,2.9
+805,Guerrero pacífico,Drama,1996,USD,25308546.82,5.1
+806,Jean-Michel Basquiat: The Radiant Child,Documental,1983,USD,21043435.66,2.9
+807,Bamako,Drama,2006,USD,11979558.65,5.2
+808,Mas que un juego,Documental,2012,USD,26469704.28,2.2
+809,"Hijo del Sheik, El",Aventuras,2001,USD,17951225.22,2.7
+810,"Horrible Sun Demon, El",Horror,2008,USD,15940492.57,7.8
+811,salvaje de china,Documental,2002,USD,5719235.9,2.2
+812,"Bailarín, Texas población. 81",Comedia,1998,USD,15473308,1.5
+813,Banda de la mano, ,1998,,,6.4
+814,"Las criaturas increíblemente extrañas que dejaron de estar y se convirtió en Mixed-Up Zombies !!?, El",Horror,2004,USD,498902.21,8.5
+815,Ven a soplar tu bocina,Comedia,1999,USD,28500664.53,9.6
+816,Tiempo de la funcion,Acción,2006,USD,18594149.68,9.1
+817,El príncipe,Acción,2007,USD,4879162.64,1.3
+818,Montañas de la Luna,Aventuras,2009,USD,18033616.5,
+819,Venganza ciega,Acción,1993,USD,6845897.85,6.1
+820,Sexmisión (Seksmisja),Aventuras,2004,USD,19755295.1,3.4
+821,"Tiger de Tjampa, The (Harimau Tjampa)",Drama,1988,USD,19044088.29,5.8
+822,"Cutting Edge: La magia de la edición de película, El",Documental,2008,USD,20040663.02,2
+823,infinito,Drama,2005,USD,11891430.42,6.5
+824,"Día que la Tierra se incendió, El",Ciencia ficción,2005,USD,7490545.29,1.6
+825,Dulces sueños,Drama,2006,USD,13708646.71,4.6
+826,Las muchachas grandes no lloran (Große Mädchen weinen nicht),Drama,1994,USD,10893452.35,
+827,El diablo y el agua bendita,Comedia,1986,USD,23280834.86,2.1
+828,Vamos a hacer el amor,Comedia,2006,ARS,13855128.22,4.9
+829,Stand by Me Doraemon,Animación,1991,USD,8408137.99,7
+830,Paseo,Comedia,2006,USD,1799899.71,8.6
+831,Super 8 Historias, ,2006,,,1.9
+832,Eres afortunado,Comedia,1997,USD,26098006.8,2.8
+833,"Familia, La (Famiglia, La)",Drama,2009,USD,6535038.38,2.4
+834,2 días en el valle,Crimen,1985,USD,20285359.39,7.9
+835,Maidens en Uniforme (Mädchen in Uniform),Drama,2009,USD,14913143.67,2.3
+836,Charlie Chan en la pista de carreras,Comedia,1997,USD,715153.05,3.8
+837,"La leyenda de los 7 vampiros de oro, El",Acción,2003,USD,8236784.22,5.1
+838,blue Valentine,Drama,1991,USD,29410653.47,9.4
+839,Los gatos no bailan,Animación,2003,USD,7718718.94,7.7
+840,"Werewolf Boy, A (Neuk-dae-tan-Nyeon)",Drama,2008,USD,29143296.55,8.7
+841,Bailando en septiembre,Drama,2012,USD,28286899.95,5.6
+842,Esta amistad especial (Les amitiés particulières),Drama,2003,USD,7021316.87,7.2
+843,Lamento informar,Documental,2000,USD,1668272.42,8.9
+844,1000 Revistas,(No hay géneros de la lista),1994,USD,14206877.87,7.6
+845,"Asaltaron la noche Minsky, el (la noche que inventaron Striptease, La)", ,2012,,,9
+846,Trampa,Cine negro,2004,USD,27285370.53,5.2
+847,Cosas lindas,Drama,2009,USD,25760622.01,4.8
+848,Ceremonia secreta,Drama,2005,USD,9194358.88,1.8
+849,Attila,Acción,1996,USD,17094547.82,5.1
+850,"El apareamiento de Millie, La",Comedia,2008,USD,29531148.17,3.9
+851,dinosaurio 13,Aventuras,2010,USD,8836731.23,9.3
+852,Cosas necesarias,Drama,1994,USD,25292688.63,9.5
+853,Ducha de April,Comedia,1992,USD,28645995.11,3
+854,Mi manera,Drama,2010,USD,26051606.29,5.3
+855,Bernard y Doris,Comedia,2011,USD,24286812.16,4.4
+856,"Maleficio, An",Drama,2004,USD,13068964.81,3
+857,Tunes of Glory,Drama,2008,USD,15995345.46,5.1
+858,"Den tatuerade ankan (tatuado Widow, The)",Comedia,1990,USD,1040292.88,9.9
+859,"El hombre que nunca estuvo allí, El",Crimen,2010,USD,21495422.21,4.7
+860,Las cosas de la vida, ,2005,,,4.1
+861,Kill Your Darlings,Comedia,1995,USD,7927543.07,3.4
+862,"Jorobado de Notre Dame, La (Notre Dame)",Drama,2001,USD,17946054.38,1.8
+863,"Presidio, La",Acción,2003,USD,2554521.38,
+864,Unfinished Song (Canción para Marion),Comedia,1997,USD,15032277.45,7
+865,Una noche en el cine: El Mundial de suspense suspense,Documental,1985,USD,27458700.78,5.4
+866,gatito,Drama,1964,USD,23991227.76,2.6
+867,Vacaciones en familia,Comedia,1992,USD,28907543.68,2.7
+868,Esplendor en la hierba,Drama,2011,USD,20867922.35,4.4
+869,adiós Charlie,Comedia,1994,USD,26411220.97,5.9
+870,"Tercera parte de la noche, La (trzecia czesc nocy)",Drama,2005,USD,25155033.44,3.2
+871,Fuerza de vida,Horror,1987,USD,26941786.35,3.7
+872,Novato del Año,Comedia,1993,USD,17920551.93,2.1
+873,Dogma,Aventuras,2006,USD,1565527.7,8.1
+874,Dejar equipaje, ,1997,,,9.6
+875,Yo también te quiero,Comedia,1986,USD,23872872.77,6.3
+876,Caravana de mujeres,Drama,1992,USD,21358718.43,4.3
+877,es una ruina,Comedia,1994,USD,26002087.06,7.3
+878,Los desaparecidos,Crimen,1993,USD,12996298.68,3
+879,La leyenda mágica de los Leprechauns,Aventuras,1996,USD,28045760.12,7
+880,La mirada de Ulises (Para Vlemma tou Odyssea),Drama,2009,USD,7025979.46,5.1
+881,Rare Exports: A Christmas Tale (Rare Exports),Acción,1994,USD,23898839.09,3.6
+882,Las chicas serán chicas,Comedia,2012,USD,7988965.58,3.9
+883,"Juguete de Navidad, El",Niños,1995,USD,15016202.46,1.4
+884,"Danza, chica, danza",Comedia,2006,USD,10079164.91,5.3
+885,viudas,Drama,2012,ARS,13452825.45,1.7
+886,satén Rouge,Drama,1996,USD,7475615.86,2.7
+887,La máscara usted vive en,Documental,2011,USD,22556612.83,9.8
+888,"Caminar entre las tumbas, A",Acción,2005,USD,2378399.88,7.1
+889,"Compensación, El",Drama,1985,USD,27777803.65,8.1
+890,"Babadook, El", ,2011,,,8.3
+891,36 Horas,Novela de suspenso,2003,USD,12382022.99,1.5
+892,Kaspar Hauser,Drama,2002,USD,6869702.98,5
+893,hoyuelos,Musical,2011,USD,20426086.14,3.3
+894,Elaine Stritch: TÍREME,Documental,2012,USD,18932925.53,4.4
+895,"Día más largo, El",Acción,2001,USD,6882129.07,8.1
+896,Phat Girlz,Comedia,1999,USD,12765908.23,5.2
+897,Marci X,Comedia,1994,USD,6395745.54,1.4
+898,Abbott y Costello en la legión extranjera,Aventuras,1980,USD,9180393.49,3.6
+899,Hechicera,Acción,1992,USD,10495515.22,8.4
+900,Bey Yaar,Niños,1997,USD,597891.37,3.3
+901,La práctica engañosa: los misterios y mentores de Ricky Jay,Documental,2009,USD,5632997.66,5.3
+902,De perdidos al río: el llamado de la naturaleza,Aventuras,2005,USD,7921674.41,4.5
+903,"Hombre con la videocámara, La (s kino-Chelovek apparatom)",Documental,1967,USD,22726400.74,2.5
+904,Ejército de Frankenstein,Acción,2004,ARS,19806714.05,9.5
+905,"Big Heat, El", ,1994,,,6.9
+906,Motocrossed,Acción,1995,USD,1062328.35,8.8
+907,"Historia de Adele H., El (Histoire d'Adèle H., L ')",Drama,2001,USD,14131865.8,7.7
+908,"Diario de una camarera (Journal d'une femme de chambre, Le)",Comedia,2005,USD,951871.76,7.4
+909,"Viajero, El",Horror,1995,USD,23918449.61,2.3
+910,"Viaje increíble, El",Aventuras,2006,USD,3232959.39,9.7
+911,de la señora Brown Niños D'Película,Comedia,2010,USD,15429739.23,5.4
+912,rey Rata,Drama,1993,USD,17629419.25,3.9
+913,Red Line 7000,Acción,1981,USD,23781450.27,3.1
+914,Noche de sustos,Comedia,2002,USD,26992660.98,8.7
+915,"La gente de mar, El",Documental,2009,USD,20022448.97,7.6
+916,Farsan,Comedia,2003,USD,4957717.66,9.4
+917,Cocaine Cowboys,Documental,2013,USD,123356.9,8.7
+918,"Asesinatos Cheshire, Los",Documental,2005,USD,6190988.23,6.5
+919,Dollman,Acción,2003,USD,12963041.44,
+920,"Familie, In",Drama,2008,USD,23814355.45,7.9
+921,Cinco dedos,Drama,2002,USD,12331956.3,3
+922,Tom y Jerry: The Lost Dragón,Animación,2003,USD,4413289.36,9
+923,Laila,Drama,2011,USD,1647675.9,4.9
+924,Dilwale Dulhania Le Jayenge,Comedia,1970,USD,5271539.63,7.8
+925,Zeisters (individuo gordo va Nutzoid),Comedia,2008,USD,26725207.54,7.6
+926,Falling Angels,Drama,1979,USD,16766735.43,3.8
+927,Manual de suicidio (Jisatsu manyaru),Horror,1994,USD,1668363.6,5.6
+928,"Francotirador, El",Crimen,2012,USD,10732044.13,1.6
+929,Nanayo (Nanayomachi),Drama,2006,ARS,3206425.36,1.1
+930,WikiRebels: el documental,Documental,2008,USD,9789540.8,2.6
+931,Joanna,Documental,2011,USD,24624480.62,4.6
+932,A 20 pasos de la fama (veinte pies de Stardom),Documental,2012,USD,29692011.14,8.2
+933,Des gens qui s'embrassent, ,2001,,,8.7
+934,María de Escocia,Drama,1987,USD,19592672.47,4
+935,Últimos días,Drama,1984,USD,13288941.73,8.7
+936,"Colector, El",Crimen,2001,USD,15019254.08,7.1
+937,Cómo comer gusanos fritos,Niños,2007,USD,17685449.03,5.4
+938,Clubland (también conocido como La introducción de los Dwights),Comedia,1996,USD,12407515.49,2
+939,Renoir,Drama,1992,USD,19355488.34,4.9
+940,Hogar de los valientes,Drama,2004,USD,11419104.49,3.4
+941,Treinta dias,Drama,2010,USD,23612034.89,2.9
+942,Shrek Forever After (Shrek alias: The Final Chapter),Aventuras,1993,USD,6119369.89,6.6
+943,Todo el mundo quiere ser italiano,Comedia,2003,USD,16034596.11,3.9
+944,El Capitán Abu Raed,Drama,2010,ARS,19006601.38,4.6
+945,"Lluvias llegaron, El",Aventuras,2002,USD,22789144.87,3.8
+946,Ninotchka,Comedia,1996,USD,29093840,6.2
+947,Estado de gracia,Crimen,2007,USD,15596846.93,7.4
+948,Big Hero 6,Acción,1985,USD,6047979.16,2.7
+949,Ox-Bow Incident El,Drama,2009,USD,10288081.06,7.5
+950,Sueños (Kvinnodröm),Drama,2012,USD,580588.88,4.1
+951,Las vacaciones europeas (también conocido como Las vacaciones europeas de una chiflada familia americana),Aventuras,1987,USD,18956717.32,8.3
+952,"Decadencia del imperio americano, La (Déclin de l'américain imperio, Le)",Comedia,2000,ARS,602682.3,7.7
+953,Orden y desorden,Documental,1999,USD,25529172.32,3.4
+954,Torso,Horror,2009,USD,2235181.59,9.9
+955,Blind Pig que quiere volar (Babi buta yang Ingin terbang),Drama,1987,USD,24429585.56,8.6
+956,A tiempo completo asesino (Chuen jik sentó SAU),Acción,1994,USD,22361882.21,1.2
+957,"Blanco, rojo y Verdone",Comedia,1993,USD,13612593.92,4.8
+958,Acceso público,Drama,2005,USD,7663044.34,2.6
+959,Guerra de las flechas (Choi-jong-Byeong-gi Hwal),Acción,1995,USD,4360422.98,2
+960,Un héroe del hombre,Drama,1991,USD,29462600.95,4.6
+961,"Stunt Man, El",Acción,2003,ARS,15009783.35,1.3
+962,Jamie Marks es Muerto,Drama,2007,USD,14635616.35,3.2
+963,"Calientabanquillos, El",Comedia,1994,USD,22831624.37,4.5
+964,Goya: un genio Loco como,Documental,2000,USD,15405310.02,2.4
+965,Will Ferrell: No hay de qué América - una última noche con George W Bush,Comedia,2012,USD,1610170.31,2.3
+966,"3 Piezas de la melancolía, The (Melancholian 3 huonetta)", ,2009,,,2
+967,Aerotransportado,Aventuras,2005,ARS,15100508.96,7.9
+968,Danny Tumbona,Comedia,2002,USD,25137299.4,6.6
+969,Conversaciones con otras mujeres,Comedia,2001,USD,19657154.01,6.6
+970,"Bone Collector, The",Novela de suspenso,2003,USD,26696712.08,9.9
+971,magia de la sombra,Drama,2009,ARS,13992173.26,7.8
+972,Mi muchacha descarada,Comedia,1995,USD,8404290.09,7.9
+973,Medianoche en el jardín del bien y del mal,Crimen,1995,ARS,1317601.23,2.9
+974,Vuelo de furia,Acción,2009,USD,22979545.37,7.2
+975,Encerrado,Horror,1997,USD,15976113.52,3.3
+976,Una emperatriz y los guerreros,Acción,2012,USD,19155206.77,3.6
+977,Hijos y amantes,Drama,1998,USD,17791960.03,7.1
+978,"Historia de Sweeney Todd, El",Crimen,1998,ARS,4086305.33,8.7
+979,Coup de difumino (Borrón y cuenta nueva),Crimen,1999,USD,20096870.33,6.2
+980,"Santo en Londres, The",Acción,1993,USD,19978301.54,2.2
+981,"Bobby Jones, carrera de un genio",Drama,2003,USD,28588515.5,8.7
+982,Hoy es especial,Comedia,2002,USD,5819505.03,6.5
+983,Oportunidades profesionales, ,2009,,,9.9
+984,Mi primo Rachel,Drama,2010,ARS,18337736.62,4.1
+985,Charlie Chan en Reno, ,1987,,,4.7
+986,Deriva del Este (Indigène d'Eurasie),Drama,2010,USD,18278486.28,2.8
+987,Diva,Acción,2004,ARS,21399816.63,5.9
+988,Sombras sobre Chinatown,Comedia,2002,USD,16661500.26,2.7
+989,Los chicos del maíz: Revelación,Horror,2007,USD,6008431.81,
+990,Killer vacaciones,Horror,2000,USD,16538637.98,1.8
+991,Alguien tiene que ceder,Comedia,1993,USD,16219583.93,3.9
+992,Riot en Cell Block 11, ,1990,,,1.5
+993,Chapoteo,Comedia,2005,USD,20778522.47,9.9
+994,12:01,Comedia,20000,USD,8709781.49,4.4
+995,"Defender, El",Acción,1996,USD,14864629.58,1.9
+996,Casino Royale,Acción,2003,USD,7493614.63,2.6
+997,Bananas! *,Crimen,2005,USD,10223817.36,3.9
+998,"Cuatro Mosqueteros, Los",Acción,1995,USD,27820457.79,6.1
+999,Bajo la piel de la ciudad (de ani-e-poost-e Shahr),Drama,1896,USD,6499058.04,2.9
+1000,el Vixen,Comedia,1993,USD,1707195.03,5.2
