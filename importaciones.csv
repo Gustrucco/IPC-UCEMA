@@ -1,0 +1,1001 @@
+producto,origen,fecha,cantidad (KG),precio (DOLARES),proveedor_id
+Eggplant Oriental,China,9/3/2008,353,6196,1474
+Soy Protein,Philippines,28/8/2003,415,4871,1416
+Gelatine Powder,United States,19/10/2017,-22,14461,1336
+Eel - Smoked,China,20/5/2015,350,4494,1064
+Sage - Ground,Philippines,1/2/2005,230,3067,1161
+Milk - 2%,Philippines,19/2/2008,197,1754,1420
+"Mushroom - Oyster, Fresh",Russia,20/11/2004,221,5375,1174
+Vinegar - Tarragon,Indonesia,13/6/2015,179,3424,1184
+Flour - Chickpea,Paraguay,23/12/2019,42,623,1208
+Carbonated Water - White Grape,China,4/11/2014,184,5388,1123
+Cherries - Frozen,Russia,22/7/2015,128,2033,1146
+"Cheese - Cheddar, Mild",Slovenia,2/10/2012,323,6473,1142
+Lamb - Loin Chops,Albania,29/10/2018,318,5257,1172
+Pasta - Agnolotti - Butternut,Libya,22/1/2001,211,5741,1210
+Pastry - Lemon Danish - Mini,Haiti,29/9/2014,333,9778,1180
+Shopper Bag - S - 4,Finland,15/12/2003,139,2685,1353
+Juice - V8 Splash,Mexico,15/7/2018,,18103,1239
+Ostrich - Prime Cut,Indonesia,28/2/2015,201,3858,1114
+Vinegar - White,Morocco,4/6/2014,195,3118,1023
+Green Tea Refresher,Indonesia,24/8/2018,385,7828,1285
+"Bread - White, Unsliced",Indonesia,21/2/2020,102,2164,1224
+Samosa - Veg,Japan,16/2/2011,296,3459,1018
+Cucumber - English,Brazil,7/1/2018,177,3214,1080
+The Pop Shoppe - Cream Soda,Trinidad and Tobago,6/7/2010,132,3210,1460
+Cream - 18%,Indonesia,17/11/2012,300,3164,1001
+Tea - Grapefruit Green Tea,United States,8/7/2020,366,9484,1191
+Melon - Cantaloupe,Indonesia,18/6/2014,362,6344,1139
+Clam Nectar,Philippines,30/1/2010,291,3367,1027
+Puree - Mocha,France,26/12/2016,376,4973,1368
+"Syrup - Golden, Lyles",China,16/8/2015,320,7277,1286
+Ham - Virginia,China,17/2/2011,394,5347,1100
+Pepper Squash,China,1/11/2012,366,4428,1364
+"Pesto - Primerba, Paste",Philippines,2/2/2002,392,9353,1091
+Tequila Rose Cream Liquor,China,3/2/2004,182,4421,1150
+Beef - Montreal Smoked Brisket,Serbia,29/3/2015,422,13791,1038
+Bandage - Fexible 1x3,Tunisia,18/12/2006,292,5575,1318
+Soap - Mr.clean Floor Soap,Argentina,22/9/2008,47,1298,1275
+Extract Vanilla Pure,Russia,26/10/2018,395,7242,1362
+Kiwano,Indonesia,14/9/2013,332,1938,1215
+Nantucket Orange Juice,China,17/11/2004,99,2318,1283
+Wine - Lamancha Do Crianza,Czech Republic,19/5/2001,107,3012,1109
+Pickle - Dill,Russia,6/4/2001,443,5688,1067
+Cumin - Whole,France,27/3/2019,426,5300,1076
+Rice Wine - Aji Mirin,Uganda,15/7/2009,399,8840,1223
+"Mushroom - Morels, Dry",Russia,19/5/2011,428,8915,1004
+Vaccum Bag - 14x20,Chile,13/10/2008,332,6243,1393
+Creamers - 10%,China,8/3/2015,277,4108,1079
+Pea - Snow,Sweden,2/8/2008,279,2768,1200
+"Veal - Tenderloin, Untrimmed",Brazil,16/9/2018,71,2081,1399
+Magnotta - Bel Paese White,China,4/1/2014,208,5360,1003
+"Pasta - Lasagne, Fresh",Russia,20/11/2001,201,4804,1262
+"Oil - Shortening,liqud, Fry",Japan,6/10/2007,277,6787,1311
+Tea - Decaf 1 Cup,China,27/7/2011,340,6332,1427
+Beets - Mini Golden,Portugal,18/3/2010,384,7694,1013
+Coffee Guatemala Dark,China,6/12/2019,215,4410,1420
+Curry Paste - Green Masala,North Korea,1/1/2020,205,5249,1327
+Chocolate - Liqueur Cups With Foil,Indonesia,31/1/2005,454,15004,1238
+"Crush - Grape, 355 Ml",Philippines,26/11/2001,174,3836,1138
+Cheese - Shred Cheddar / Mozza,Thailand,3/7/2012,288,8855,1322
+"Crab - Claws, Snow 16 - 24",Kazakhstan,4/12/2002,271,7031,1062
+Quail Eggs - Canned,China,30/4/2008,296,5721,1197
+Sugar - Crumb,Argentina,24/12/2015,217,2989,1068
+Dasheen,China,21/7/2011,492,3466,1452
+Kumquat,Indonesia,8/4/2008,366,2681,1088
+Bread - Sour Batard,Indonesia,15/1/2009,,10582,1458
+Pasta - Ravioli,Indonesia,23/1/2005,331,5010,1032
+Syrup - Chocolate,Indonesia,2/7/2001,494,7779,1412
+"Pork - Ham, Virginia",China,3/9/2011,259,5619,1242
+Ecolab - Balanced Fusion,Russia,24/8/2009,229,5015,1352
+Bar - Granola Trail Mix Fruit Nut,Indonesia,10/8/2010,360,11141,1338
+Jolt Cola - Red Eye,Indonesia,9/4/2006,388,7606,1429
+Bread - Onion Focaccia,Norway,27/11/2006,513,10762,1398
+Sauce - Mint,Russia,13/8/2004,535,6903,1098
+The Pop Shoppe - Cream Soda,Indonesia,4/12/2006,301,7350,1201
+Relish,Philippines,18/9/2018,487,3118,1114
+Lamb Tenderloin Nz Fr,South Africa,11/5/2011,60,1260,1170
+Bread Base - Goodhearth,Bosnia and Herzegovina,13/11/2020,51,1221,1467
+Island Oasis - Pina Colada,Indonesia,12/7/2010,199,4938,1188
+"Juice - Pineapple, 48 Oz",Poland,28/8/2020,253,6124,1189
+Beef - Rib Eye Aaa,Russia,2/12/2014,97,1602,1039
+Rice - Sushi,France,1/7/2017,103,1143,1483
+"Beans - Kidney, Canned",China,6/10/2020,380,7884,1339
+Coffee - Almond Amaretto,Indonesia,24/9/2018,511,13032,1137
+Cookies Cereal Nut,China,4/3/2018,413,6924,1304
+"Bag - Bread, White, Plain",China,30/5/2002,407,10092,1002
+Herb Du Provence - Primerba,Poland,5/8/2020,348,8825,1264
+Cheese - Swiss Sliced,Vietnam,12/12/2005,,21961,1428
+Pork - Suckling Pig,Saint Kitts and Nevis,14/6/2004,100,1995,1229
+Veal Inside - Provimi,Germany,29/10/2005,285,6242,1486
+Wine - Clavet Saint Emilion,Tunisia,16/7/2002,159,4488,1123
+Steam Pan Full Lid,South Korea,7/9/2004,450,8296,1477
+"Coke - Classic, 355 Ml",Mauritius,15/3/2018,320,6396,1319
+Island Oasis - Strawberry,Saudi Arabia,22/10/2019,228,5220,1153
+Apricots - Halves,Indonesia,23/7/2003,342,6213,1395
+Mace Ground,Latvia,17/12/2016,320,3168,1409
+"Pork - Bacon,back Peameal",Poland,16/9/2006,248,5887,1381
+"Pail - 4l White, With Handle",Sweden,23/6/2016,218,6211,1071
+"Beef - Rib Roast, Cap On",Sweden,29/11/2014,18,418,1312
+Chicken - Livers,Mongolia,5/6/2018,335,5523,1456
+Puff Pastry - Slab,Syria,4/7/2005,181,3364,1379
+"Nut - Pistachio, Shelled",Brazil,7/1/2018,166,3816,1087
+Soup - Campbells - Chicken Noodle,Greece,29/9/2006,-86,18766,1253
+Goldschalger,Brazil,19/2/2006,157,2054,1368
+"Pepsi, 355 Ml",Argentina,25/10/2002,124,1586,1285
+Bacardi Breezer - Strawberry,China,15/7/2007,405,10484,1178
+Crab - Meat,Nepal,25/5/2019,267,2735,1388
+Bread - Dark Rye,Bulgaria,9/10/2007,138,2342,1480
+The Pop Shoppe - Cream Soda,Malta,22/3/2002,139,3941,1246
+Easy Off Oven Cleaner,China,22/3/2003,263,5538,1352
+Wakami Seaweed,China,23/12/2005,83,1114,1084
+"Bread - Roll, Whole Wheat",Burundi,2/8/2019,185,4660,1402
+Country Roll,Egypt,28/4/2014,33,414,1073
+Apron,Afghanistan,20/3/2002,385,2043,1499
+Tea - Lemon Scented,Thailand,16/10/2019,127,2452,1223
+"Pasta - Lasagne, Fresh",China,10/1/2012,234,5079,1202
+Wine - Semi Dry Riesling Vineland,Venezuela,13/12/2017,186,6024,1463
+Table Cloth 120 Round White,Pakistan,11/3/2001,296,8391,1052
+"Lamb - Whole, Fresh",Costa Rica,18/1/2003,130,2684,1178
+"Cheese - Havarti, Roasted Garlic",Sweden,28/9/2008,280,9516,1090
+Wine - Touraine Azay - Le - Rideau,Japan,7/12/2013,,34550,1033
+Dr. Pepper - 355ml,Japan,6/4/2010,278,4583,1127
+Lamb Rack Frenched Australian,Thailand,15/4/2018,324,8870,1012
+Sauce - Marinara,Nicaragua,10/9/2019,154,2287,1417
+"Flour - Buckwheat, Dark",Nigeria,20/5/2002,433,10467,1438
+Fruit Mix - Light,China,13/10/2007,157,2603,1206
+Tea - Jasmin Green,Croatia,12/10/2010,348,5807,1069
+"Jam - Marmalade, Orange",Madagascar,11/9/2007,125,3149,1373
+"Octopus - Baby, Cleaned",Ukraine,24/11/2016,375,9417,1471
+"Cheese - Manchego, Spanish",France,1/7/2013,193,5391,1347
+Container - Clear 16 Oz,Brazil,7/8/2010,580,12462,1108
+Sauce - Ranch Dressing,Poland,27/1/2003,290,6287,1302
+Duck - Whole,Latvia,13/1/2017,309,3522,1440
+"Beef - Rib Roast, Cap On",Philippines,7/11/2019,446,10089,1054
+Loquat,China,15/3/2009,151,994,1024
+Initation Crab Meat,France,15/7/2017,190,3752,1268
+Strawberries - California,Poland,12/1/2011,251,6619,1204
+Five Alive Citrus,China,1/12/2007,227,4203,1261
+Syrup - Pancake,Israel,7/5/2002,217,3169,1025
+Swordfish Loin Portions,Serbia,7/11/2017,241,5633,1458
+"Wine - White, Mosel Gold",Russia,27/4/2019,75,1965,1266
+Pork - Side Ribs,China,19/7/2014,286,4748,1402
+Bacardi Breezer - Tropical,Indonesia,2/12/2019,75,2047,1111
+Potatoes - Idaho 80 Count,France,16/5/2012,613,16825,1161
+Parsley - Dried,Cuba,20/3/2019,187,2820,1140
+Aspic - Light,China,31/3/2016,270,3201,1393
+"Artichoke - Bottom, Canned",Canada,8/1/2010,325,9061,1066
+Coffee Cup 12oz 5342cd,United Kingdom,13/5/2015,401,8640,1009
+Stock - Fish,China,13/1/2017,502,6590,1214
+Curry Powder,Sweden,26/5/2005,107,1297,1456
+Lobster - Base,China,27/7/2003,129,1823,1365
+Water - Spring Water 500ml,Indonesia,24/12/2006,180,4263,1295
+"Chocolate - Milk, Callets",Philippines,31/7/2004,120,3000,1182
+Beef - Flank Steak,Portugal,3/11/2010,471,8212,1407
+Food Colouring - Blue,Czech Republic,9/7/2017,161,3660,1313
+Pork - Back Ribs,Indonesia,22/7/2012,237,3955,1472
+Pork - Hock And Feet Attached,Russia,21/4/2005,-81,15147,1002
+Cookie Dough - Chunky,Sweden,17/4/2002,193,4289,1475
+Sauce - Hoisin,Indonesia,9/5/2015,336,4385,1150
+"Nut - Pecan, Pieces",Indonesia,16/9/2017,16,274,1001
+Oil - Canola,China,29/5/2016,153,2012,1061
+Sugar - Crumb,Indonesia,18/1/2018,20,252,1423
+"Juice - Tomato, 10 Oz",China,3/2/2007,340,6790,1023
+Peas Snow,El Salvador,6/7/2008,40,385,1392
+Soup V8 Roasted Red Pepper,Vietnam,14/12/2019,168,4575,1274
+Cheese - Goat With Herbs,Albania,13/11/2013,272,6246,1126
+Table Cloth 81x81 White,Nigeria,2/4/2013,188,4564,1149
+Pepper - Green,New Zealand,29/12/2007,-102,4481,1007
+Grenadine,United States,5/4/2019,392,3798,1367
+Sword Pick Asst,Sweden,3/2/2020,258,3733,1358
+Wine - Cabernet Sauvignon,Luxembourg,8/6/2011,242,6539,1456
+Oil - Margarine,China,2/6/2003,252,4098,1462
+Table Cloth 62x114 White,Belarus,21/8/2016,152,3691,1269
+"Orange - Canned, Mandarin",Thailand,12/2/2006,483,11030,1188
+"Beef - Tenderlion, Center Cut",China,16/9/2014,262,8123,1364
+Bacardi Mojito,Canada,17/3/2018,247,3114,1121
+Blackberries,Norway,2/3/2002,177,1958,1081
+Melon - Honey Dew,Netherlands,23/5/2018,94,1477,1498
+Kellogs Special K Cereal,Poland,25/5/2017,281,6339,1366
+V8 - Berry Blend,China,7/1/2016,224,3503,1413
+Cut Wakame - Hanawakaba,Philippines,20/5/2015,369,8097,1229
+Longan,China,29/5/2005,335,2053,1192
+Cheese - Ermite Bleu,United States,16/8/2012,170,3253,1385
+"Wine - Mas Chicet Rose, Vintage",Philippines,12/12/2016,322,9241,1319
+Wine - Two Oceans Cabernet,Japan,8/9/2015,191,4627,1469
+Lobster - Live,China,2/2/2003,27,352,1206
+Dried Cherries,China,12/9/2002,395,5383,1122
+"Pepper - Black, Whole",Indonesia,21/10/2008,334,7547,1205
+Potatoes - Parissienne,Morocco,31/10/2010,179,3825,1263
+Cheese - La Sauvagine,Ukraine,13/5/2015,275,5946,1108
+Muffin Batt - Ban Dream Zero,Argentina,6/12/2013,271,7306,1128
+"Nut - Cashews, Whole, Raw",Seychelles,10/11/2011,324,8808,1183
+Bandage - Finger Cots,Mongolia,27/8/2004,357,7514,1129
+Oil - Cooking Spray,China,24/4/2009,203,3768,1260
+Pear - Asian,Poland,26/3/2016,392,4447,1444
+"Club Soda - Schweppes, 355 Ml",Indonesia,7/12/2016,291,8787,1479
+"Flour - Corn, Fine",China,26/7/2013,333,5981,1179
+"Chicken - Thigh, Bone In",Laos,29/11/2017,,22160,1322
+Table Cloth 90x90 Colour,Greece,26/2/2010,165,4052,1499
+Parasol Pick Stir Stick,Cuba,12/12/2012,385,9323,1231
+Venison - Ground,Indonesia,31/8/2018,275,4237,1130
+"Beans - Kidney, Canned",Poland,21/6/2006,,7177,1097
+Snapple Raspberry Tea,Brazil,14/4/2001,213,4672,1155
+Bread - Multigrain,Norway,3/9/2018,365,6436,1431
+Gloves - Goldtouch Disposable,Venezuela,13/9/2007,-30,4358,1365
+Banana,Russia,10/9/2002,296,1780,1047
+Bread - 10 Grain Parisian,Honduras,12/6/2019,381,8742,1297
+Beer - Camerons Cream Ale,Indonesia,18/12/2008,83,2084,1106
+Appetizer - Smoked Salmon / Dill,Czech Republic,15/7/2008,326,10916,1101
+Muffin - Mix - Mango Sour Cherry,China,12/2/2010,193,5592,1046
+"Gin - Gilbeys London, Dry",China,21/12/2009,254,6486,1029
+Oyster - In Shell,Uzbekistan,4/5/2008,105,1905,1438
+Bagel - Plain,Ireland,22/5/2004,316,3719,1251
+Butter - Pod,Indonesia,11/11/2010,400,5000,1238
+Coffee - Espresso,Portugal,14/7/2015,219,3518,1353
+Ice Cream - Turtles Stick Bar,Indonesia,12/9/2020,-69,16814,1019
+Sausage - Meat,Vietnam,5/3/2007,239,3405,1363
+Pomegranates,Indonesia,30/4/2011,389,4393,1054
+Pheasants - Whole,Afghanistan,26/1/2008,258,4081,1027
+Pasta - Fusili Tri - Coloured,United States,22/4/2005,226,6104,1104
+Egg Patty Fried,Argentina,15/2/2007,,9601,1305
+Lettuce - Red Leaf,France,3/3/2016,264,4810,1001
+Beef - Inside Round,China,10/6/2005,362,7322,1165
+Pepper - Chilli Seeds Mild,Portugal,29/5/2007,336,8888,1182
+Wine - Duboeuf Beaujolais,China,20/11/2005,121,2734,1376
+Beer - Camerons Auburn,Honduras,2/7/2001,174,4123,1122
+Parsley - Fresh,Nigeria,22/12/2004,372,5589,1051
+Coffee - Hazelnut Cream,Thailand,14/4/2010,234,5471,1128
+Pumpkin,Australia,9/4/2011,219,1510,1012
+Wine - Rhine Riesling Wolf Blass,Cyprus,27/9/2015,397,11802,1422
+Nantucket Orange Juice,China,25/8/2009,576,11505,1316
+Gherkin - Sour,Indonesia,11/5/2009,300,4581,1221
+French Pastry - Mini Chocolate,New Zealand,10/9/2001,170,5231,1442
+Bagel - Whole White Sesame,Philippines,28/6/2018,304,7704,1096
+Muffin Batt - Choc Chk,Serbia,18/11/2019,584,13970,1312
+Chicken - Leg / Back Attach,Indonesia,27/5/2003,282,7535,1133
+Orange Roughy 6/8 Oz,China,12/2/2015,388,7493,1006
+"Cookies - Oreo, 4 Pack",China,2/10/2003,205,4681,1084
+Sproutsmustard Cress,China,13/10/2013,358,6933,1095
+Beef Tenderloin Aaa,Indonesia,2/1/2002,506,10323,1341
+Cheese - Bocconcini,China,22/2/2003,487,8449,1113
+"Yogurt - Strawberry, 175 Gr",Cuba,11/1/2009,265,7649,1335
+Coffee Caramel Biscotti,China,20/11/2005,175,3715,1091
+Chocolate - Compound Coating,China,25/3/2018,356,10368,1214
+Lotus Rootlets - Canned,China,29/11/2020,237,5030,1268
+Wine - Magnotta - Cab Sauv,Russia,28/3/2008,226,6355,1486
+Ecolab - Hand Soap Form Antibac,Russia,6/8/2014,328,9845,1217
+Coffee - Hazelnut Cream,Indonesia,22/7/2020,171,3769,1198
+"Beef - Roasted, Cooked",Portugal,20/5/2001,202,4623,1003
+Sausage - Andouille,China,10/11/2005,108,1884,1226
+Wine - Valpolicella Masi,Poland,15/11/2006,597,14794,1279
+Turkey - Oven Roast Breast,Mongolia,3/12/2008,110,2654,1197
+"Sauce - Black Current, Dry Mix",Mali,31/8/2004,95,3098,1446
+Longos - Penne With Pesto,Indonesia,6/6/2016,278,7012,1315
+Macaroons - Two Bite Choc,China,27/2/2005,109,2647,1061
+Sprouts - Baby Pea Tendrils,Colombia,17/11/2016,21,550,1070
+Bread - Kimel Stick Poly,Poland,5/1/2010,272,5935,1399
+"Pork - Ham, Virginia",Lebanon,19/2/2018,198,4027,1171
+"Nut - Walnut, Chopped",Indonesia,31/12/2019,136,2822,1389
+Chivas Regal - 12 Year Old,Brazil,9/5/2019,71,1671,1462
+"Asparagus - White, Fresh",China,16/10/2007,415,10937,1015
+Pepper Squash,Poland,15/7/2008,111,1365,1444
+Fuji Apples,Croatia,28/12/2013,287,3239,1420
+Wild Boar - Tenderloin,Argentina,24/6/2010,223,4618,1430
+Wine - Cava Aria Estate Brut,France,27/3/2001,254,6617,1025
+Compound - Raspberry,Lithuania,24/6/2009,196,3729,1425
+Jolt Cola,Colombia,2/7/2016,205,1921,1293
+"Beef - Baby, Liver",Germany,4/2/2019,223,4376,1236
+"Doilies - 7, Paper",Cameroon,9/6/2005,95,1788,1408
+Beef - Flank Steak,Argentina,30/12/2014,-142,2933,1433
+Bread Base - Gold Formel,China,9/9/2005,400,10335,1461
+"Pasta - Elbows, Macaroni, Dry",China,22/1/2004,-107,14663,1473
+Chips - Potato Jalapeno,China,20/5/2004,283,6638,1050
+Orange - Tangerine,China,23/9/2001,131,2444,1354
+Shortbread - Cookie Crumbs,Nicaragua,19/5/2014,-112,18789,1318
+Anchovy Paste - 56 G Tube,Russia,26/1/2017,63,1498,1197
+"Melon - Watermelon, Seedless",Canada,19/5/2001,173,5302,1410
+Cheese - Cream Cheese,Serbia,23/9/2016,156,2963,1103
+Soup Knorr Chili With Beans,China,13/10/2006,327,7948,1215
+Bols Melon Liqueur,Mexico,4/1/2010,164,2737,1036
+Table Cloth 54x54 White,France,27/11/2015,240,5351,1428
+Table Cloth 62x120 White,Poland,24/5/2015,199,5210,1055
+Liners - Baking Cups,Argentina,28/3/2007,209,3823,1086
+Oil - Safflower,Czech Republic,13/2/2020,549,8134,1135
+Cleaner - Comet,Indonesia,9/3/2002,312,4967,1254
+"Tray - Foam, Square 4 - S",China,6/12/2007,478,12522,1311
+Wine - Valpolicella Masi,Russia,26/8/2015,219,5170,1104
+Truffle - Peelings,Portugal,30/7/2018,115,1912,1264
+Syrup - Kahlua Chocolate,Azerbaijan,20/12/2006,155,3405,1493
+Beer - Original Organic Lager,Brazil,16/6/2014,300,8142,1120
+Cheese - La Sauvagine,Cyprus,3/4/2013,141,2682,1478
+Sproutsmustard Cress,Philippines,24/12/2018,84,1757,1412
+Mcgillicuddy Vanilla Schnap,Philippines,16/8/2010,395,10215,1375
+Wine - Tribal Sauvignon,Belarus,2/12/2008,300,6432,1323
+"Lamb - Leg, Boneless",China,9/8/2002,153,2875,1024
+Vinegar - Sherry,Australia,24/3/2003,88,1295,1221
+"Rum - Dark, Bacardi, Black",China,22/7/2002,-49,8232,1020
+Cheese - Colby,Indonesia,27/2/2004,476,6772,1009
+Pepper - Cayenne,Argentina,6/8/2013,271,4481,1258
+Food Colouring - Red,Indonesia,10/9/2017,276,5984,1386
+Quail - Jumbo Boneless,Ukraine,23/1/2001,469,10459,1452
+"Squash - Pattypan, Yellow",China,22/11/2007,325,7762,1184
+"Fish - Scallops, Cold Smoked",China,5/10/2006,353,9329,1165
+Wine - Gato Negro Cabernet,Portugal,10/10/2016,256,6366,1296
+Bread Base - Goodhearth,Philippines,1/5/2003,121,3050,1017
+Wine - Black Tower Qr,Gabon,30/12/2018,258,5760,1205
+Cheese - La Sauvagine,Peru,1/5/2011,135,3032,1120
+Vinegar - Balsamic,Afghanistan,20/12/2003,530,9966,1096
+Appetizer - Crab And Brie,China,22/9/2018,278,7554,1271
+Garam Masala Powder,Tanzania,4/5/2013,130,2302,1450
+Lobster - Cooked,Russia,6/5/2001,150,2613,1470
+Beef - Eye Of Round,China,4/3/2018,-14,14365,1064
+"Crush - Grape, 355 Ml",Philippines,10/3/2008,330,7404,1218
+"Pasta - Cappellini, Dry",Poland,17/9/2005,159,3922,1030
+"Pork - Bacon, Double Smoked",Spain,29/7/2011,346,8618,1096
+Vinegar - Red Wine,Philippines,10/1/2017,347,6263,1208
+"Lemonade - Strawberry, 591 Ml",Indonesia,18/1/2016,353,10397,1110
+Juice - Orange,China,17/6/2019,360,5143,1282
+Beef - Top Butt Aaa,China,5/8/2005,355,6900,1189
+"Pasta - Shells, Medium, Dry",Colombia,6/7/2009,200,5424,1313
+Mousse - Banana Chocolate,Sweden,1/5/2018,370,10134,1122
+Cups 10oz Trans,Indonesia,18/3/2010,204,3300,1095
+"Chicken - Diced, Cooked",Russia,29/2/2020,255,5309,1047
+Beer - Guiness,China,14/10/2015,327,4330,1424
+"Bread - Rolls, Rye",China,2/10/2013,282,5108,1076
+"Pork - Butt, Boneless",China,13/8/2015,394,8600,1170
+"Fish - Base, Bouillion",Indonesia,21/6/2008,266,5997,1423
+Broom - Corn,Seychelles,22/2/2013,155,1875,1264
+Wine - Penfolds Koonuga Hill,South Africa,28/3/2006,350,9210,1424
+Ice Cream Bar - Oreo Cone,China,9/10/2013,114,2677,1345
+Remy Red,Portugal,24/2/2009,477,3498,1425
+Pastrami,Bolivia,27/3/2019,222,1953,1324
+Wine - Marlbourough Sauv Blanc,Brazil,2/11/2017,303,9415,1424
+Beer - Muskoka Cream Ale,Philippines,13/7/2010,184,4230,1462
+White Baguette,United States,23/7/2002,425,5458,1205
+Eggwhite Frozen,Peru,16/9/2017,378,5157,1359
+Chicken - Tenderloin,Italy,11/2/2009,269,5115,1350
+"Pasta - Lasagna, Dry",Portugal,10/9/2018,192,4000,1313
+Crackers - Soda / Saltins,China,26/2/2019,293,7298,1033
+"Leeks - Baby, White",Finland,13/12/2004,228,4544,1465
+Rice - Jasmine Sented,United States,25/3/2004,188,3781,1016
+Wine - Vouvray Cuvee Domaine,France,14/7/2013,98,2915,1024
+Pop - Club Soda Can,France,2/8/2020,416,7863,1219
+Beer - Mcauslan Apricot,Netherlands,18/11/2016,143,3049,1100
+"Tart Shells - Barquettes, Savory",Philippines,26/6/2015,240,7613,1043
+"Wine - White, Riesling, Henry Of",Indonesia,19/1/2005,327,9573,1211
+Beer - Moosehead,China,15/9/2002,469,8238,1384
+"Beans - Black Bean, Canned",Portugal,17/12/2006,436,11675,1212
+"Wine - Red, Lurton Merlot De",Japan,21/4/2004,160,4258,1281
+Kahlua,Venezuela,29/8/2002,210,1191,1257
+Veal - Inside,Philippines,15/3/2003,203,2883,1452
+Honey - Comb,Botswana,3/11/2008,275,3466,1175
+Dried Apple,China,15/6/2018,323,3304,1378
+Bread Bowl Plain,Macao,2/3/2001,306,4476,1146
+"Wine - White, Antinore Orvieto",Indonesia,10/7/2018,,25802,1454
+"Vermouth - White, Cinzano",Russia,19/10/2011,232,5819,1321
+Wasabi Paste,Philippines,29/11/2003,425,5288,1344
+Squash - Acorn,Mexico,26/8/2005,274,3499,1070
+"Veal - Leg, Provimi - 50 Lb Max",Indonesia,25/1/2006,364,11691,1358
+Wine - Pinot Noir Mondavi Coastal,Togo,4/9/2007,295,9665,1341
+Wine - Rhine Riesling Wolf Blass,Mexico,9/2/2003,202,7012,1120
+Aromat Spice / Seasoning,United States,17/5/2019,353,8831,1238
+Water Chestnut - Canned,Russia,24/4/2012,151,3230,1092
+Cream - 10%,Philippines,27/9/2010,317,3549,1174
+Mix - Cappucino Cocktail,China,7/2/2019,423,10405,1423
+"Coffee - Colombian, Portioned",Dominican Republic,28/8/2019,32,968,1069
+Sugar Thermometer,Indonesia,19/8/2004,319,5531,1297
+Veal - Inside,Nigeria,12/2/2006,185,2620,1324
+Wine - Vovray Sec Domaine Huet,China,16/10/2012,187,5844,1299
+"Pasta - Orzo, Dry",Indonesia,8/10/2006,172,2746,1061
+Nougat - Paste / Cream,Mexico,11/11/2015,283,6804,1167
+Veal - Sweetbread,Nigeria,15/3/2016,410,6670,1496
+Bar Bran Honey Nut,Argentina,29/1/2001,354,6667,1455
+Creme De Menth - White,Azerbaijan,7/3/2001,57,1364,1306
+Muffin - Bran Ind Wrpd,Philippines,18/6/2003,349,7179,1139
+Cheese - Shred Cheddar / Mozza,Somalia,20/9/2016,603,19020,1145
+Bread - Raisin Walnut Oval,Indonesia,12/4/2003,514,13109,1388
+Rolled Oats,Indonesia,14/7/2008,152,1701,1177
+"Champagne - Brights, Dry",South Korea,19/4/2001,58,1359,1281
+Garbag Bags - Black,Brazil,1/10/2014,115,2080,1138
+Pastry - Apple Muffins - Mini,Poland,27/8/2010,530,14354,1432
+Pur Source,China,2/6/2004,35,373,1458
+Fond - Neutral,Japan,28/8/2018,283,3790,1264
+Halibut - Steaks,Greece,11/5/2005,405,6923,1184
+Chip - Potato Dill Pickle,Indonesia,20/2/2016,273,6252,1034
+Cake Slab,China,23/9/2010,111,970,1207
+Potatoes - Pei 10 Oz,Argentina,3/11/2008,292,5262,1323
+Tea - Herbal - 6 Asst,Argentina,12/3/2015,,3573,1322
+Olive - Spread Tapenade,Philippines,28/1/2002,492,12283,1245
+Cranberries - Fresh,Mexico,4/4/2009,222,3966,1110
+Sprouts - Pea,Tunisia,10/4/2011,578,6992,1102
+Lamb - Sausage Casings,Nigeria,1/10/2004,78,1622,1228
+Cream Of Tartar,Namibia,30/1/2007,308,5049,1080
+Extract - Rum,Czech Republic,5/4/2018,347,4077,1182
+Beef - Top Butt Aaa,Russia,28/8/2014,162,3139,1180
+Shichimi Togarashi Peppeers,China,31/1/2005,451,13057,1309
+Cream - 35%,China,13/7/2020,208,2083,1495
+Cafe Royale,Mexico,28/8/2001,313,3348,1380
+Muffin - Banana Nut Individual,Peru,24/5/2009,335,10204,1395
+"Pasta - Fett Alfredo, Single Serve",Poland,9/6/2013,175,5867,1033
+Vinegar - Sherry,Poland,18/11/2006,231,3350,1493
+"Beef - Roasted, Cooked",China,26/9/2016,228,4520,1179
+Crab Brie In Phyllo,Bulgaria,2/11/2017,392,7725,1327
+Cheese - Grie Des Champ,Central African Republic,18/12/2008,96,2030,1017
+Sole - Iqf,Portugal,2/8/2010,238,2143,1281
+Mustard - Dijon,Portugal,13/9/2013,477,7484,1126
+Truffle Shells - White Chocolate,France,16/10/2010,180,5719,1433
+Beef - Tenderloin Tails,Brazil,24/3/2017,250,6177,1377
+Mint - Fresh,China,14/7/2003,261,3357,1341
+Pepper - Green Thai,Honduras,26/3/2005,405,7636,1365
+Cup - 8oz Coffee Perforated,China,15/12/2006,490,13345,1003
+Wine - Sicilia Igt Nero Avola,Iran,15/5/2007,395,11680,1283
+Cinnamon - Stick,Indonesia,28/6/2010,381,6003,1013
+Truffle Cups - White Paper,Portugal,3/3/2019,288,8192,1289
+"Juice - Tomato, 10 Oz",Vietnam,29/9/2004,233,4456,1233
+Pork - Smoked Back Bacon,China,20/1/2006,91,2142,1314
+Compound - Rum,Kiribati,15/4/2006,307,4443,1030
+"Pork - Sausage, Medium",Czech Republic,23/9/2004,392,8556,1232
+Onion - Dried,Russia,18/7/2009,405,5481,1033
+"Corn - Cream, Canned",Philippines,2/3/2020,238,4572,1211
+Juice - Orange,New Zealand,12/4/2013,222,2994,1437
+Vector Energy Bar,Germany,17/9/2016,468,7237,1306
+Soup - Boston Clam Chowder,Ukraine,18/4/2009,363,8627,1445
+Peppercorns - Green,Canada,5/5/2020,125,2582,1034
+Godiva White Chocolate,Indonesia,16/11/2016,219,4571,1023
+Madeira,Belarus,10/3/2005,142,921,1358
+Greens Mustard,Angola,19/4/2003,446,6308,1443
+"Crab - Claws, Snow 16 - 24",Sweden,19/2/2016,44,1180,1144
+Jam - Apricot,China,1/12/2015,595,7071,1080
+Rambutan,Philippines,27/7/2008,296,2156,1064
+Sausage - Andouille,United States,11/8/2015,159,2984,1452
+Snapple Raspberry Tea,Morocco,27/5/2003,376,7306,1471
+Wine - Zinfandel California 2002,France,16/11/2017,200,6997,1057
+Pork - European Side Bacon,Indonesia,20/8/2013,296,7331,1211
+Tomatoes - Roma,Comoros,18/9/2010,242,3856,1222
+"Rum - White, Gg White",Poland,9/4/2003,320,6316,1270
+Beer - Molson Excel,Russia,13/7/2020,314,5821,1030
+Soup - Campbellschix Stew,China,17/10/2009,367,8908,1396
+Pork - Belly Fresh,United States,27/7/2017,218,4207,1402
+Cheese - St. Andre,China,6/4/2014,343,6063,1046
+Carroway Seed,Indonesia,18/4/2003,393,4907,1491
+"Lamb - Leg, Diced",Pakistan,20/6/2002,394,7329,1478
+Pork Loin Bine - In Frenched,China,15/9/2011,188,5126,1077
+Isomalt,United States,17/10/2012,187,1348,1261
+Nutmeg - Ground,Curacao,11/7/2001,274,4471,1220
+Longos - Grilled Chicken With,Indonesia,18/4/2011,289,8067,1294
+Stainless Steel Cleaner Vision,China,13/5/2014,216,6398,1092
+Plate Foam Laminated 9in Blk,Indonesia,9/1/2006,287,7696,1088
+Wine - Fontanafredda Barolo,Cambodia,19/7/2006,-14,31698,1051
+Pear - Halves,Argentina,1/10/2020,151,1901,1226
+Wine - Sogrape Mateus Rose,China,3/5/2011,172,4766,1046
+Apron,United States,21/10/2012,384,1736,1298
+Wine - Taylors Reserve,Indonesia,27/5/2004,227,4976,1014
+Appetizer - Assorted Box,France,3/1/2009,308,7886,1029
+Chicken Breast Halal,Bosnia and Herzegovina,15/10/2010,225,4573,1333
+Zucchini - Green,Brazil,9/11/2008,187,2962,1081
+Sage - Rubbed,Philippines,14/7/2015,215,2850,1063
+Bay Leaf Fresh,Democratic Republic of the Congo,28/4/2013,338,4906,1223
+"Iced Tea - Lemon, 460 Ml",Russia,25/2/2017,295,6520,1152
+Truffle Cups - Red,Indonesia,8/3/2016,28,509,1153
+Mayonnaise,Japan,19/8/2012,265,2690,1123
+Table Cloth 54x72 White,Czech Republic,11/12/2006,85,1821,1376
+Snails - Large Canned,Ireland,8/8/2005,353,7021,1222
+Potatoes - Pei 10 Oz,China,9/6/2002,64,1210,1443
+"Artichoke - Bottom, Canned",Philippines,28/6/2018,186,4753,1267
+Extract - Rum,Ireland,29/1/2001,208,2641,1167
+Pork - Shoulder,Portugal,3/5/2009,383,5718,1141
+Beans - Soya Bean,China,12/12/2012,225,3796,1432
+Onions - Vidalia,Argentina,2/3/2016,578,10157,1193
+Beer - Corona,Afghanistan,29/1/2009,148,1758,1055
+Sauce - Caesar Dressing,France,25/8/2001,364,7878,1399
+Wine - Chablis J Moreau Et Fils,Indonesia,1/1/2005,,25225,1259
+"Seedlings - Buckwheat, Organic",Indonesia,23/10/2005,331,10856,1276
+"Bread - Roll, Calabrese",Sweden,8/5/2002,248,5295,1241
+"Wine - Red, Mouton Cadet",Greece,3/2/2017,345,8811,1091
+Cheese - Montery Jack,China,21/7/2001,329,7362,1087
+Appetizer - Sausage Rolls,Indonesia,21/6/2017,280,6567,1473
+"Crab - Back Fin Meat, Canned",Tanzania,14/8/2020,411,11516,1280
+Steam Pan - Half Size Deep,Brazil,10/4/2020,173,4641,1250
+Steampan Lid,Honduras,30/8/2001,275,3054,1389
+Lambcasing,Morocco,26/9/2002,408,4142,1318
+Apple - Custard,China,31/5/2013,155,2389,1034
+Tea - Camomele,Peru,9/9/2009,26,357,1450
+Eel Fresh,Brazil,10/11/2018,253,2411,1288
+"Beef - Ground, Extra Lean, Fresh",Russia,8/2/2017,346,10033,1138
+"Pasta - Cappellini, Dry",Indonesia,15/2/2013,330,8192,1093
+Cream Of Tartar,Poland,23/9/2014,234,3823,1340
+Cocoa Feuilletine,China,19/1/2017,238,4240,1353
+Fish - Bones,Macedonia,29/6/2004,415,5107,1128
+"Ham - Smoked, Bone - In",Syria,18/4/2013,370,8020,1361
+Cheese - Camembert,China,20/1/2009,,6049,1313
+Breakfast Quesadillas,France,29/12/2008,342,6668,1120
+Longos - Grilled Salmon With Bbq,Thailand,6/9/2003,30,980,1011
+"Coffee - Beans, Whole",Russia,11/2/2007,382,8437,1385
+Beef - Top Sirloin,Guatemala,26/5/2006,404,7117,1115
+"Mushroom - Shitake, Dry",Argentina,3/7/2017,167,3894,1031
+Sausage - Blood Pudding,Philippines,10/12/2002,270,6423,1297
+"Oil - Shortening,liqud, Fry",Guatemala,31/7/2002,245,6546,1487
+Sauce - Mint,Mexico,10/10/2010,233,2776,1120
+Pasta - Cheese / Spinach Bauletti,China,15/10/2005,263,9270,1297
+"Stock - Chicken, White",China,26/1/2003,248,5534,1488
+Chicken - Tenderloin,China,30/12/2012,280,5380,1408
+Salmon Steak - Cohoe 6 Oz,Mayotte,2/8/2011,431,10735,1255
+"Dill - Primerba, Paste",Netherlands,30/11/2001,318,6988,1302
+"Spoon - Soup, Plastic",Afghanistan,11/5/2015,137,2648,1234
+Garlic - Peeled,Philippines,8/4/2002,207,3114,1108
+"Pork - Butt, Boneless",Poland,27/2/2017,283,6257,1334
+Wine - Placido Pinot Grigo,China,6/11/2018,353,9314,1075
+Cheese - Camembert,Angola,4/12/2009,158,2731,1383
+Mousse - Passion Fruit,Indonesia,13/3/2018,289,5750,1250
+Cheese - Roquefort Pappillon,Indonesia,8/3/2013,289,8461,1154
+"Doilies - 7, Paper",China,29/1/2006,170,2949,1270
+Chivas Regal - 12 Year Old,Bangladesh,12/7/2004,222,5498,1321
+Icecream Bar - Del Monte,Indonesia,19/1/2008,312,6857,1487
+"Extract - Vanilla,artificial",Bulgaria,14/5/2008,111,3270,1156
+Shark - Loin,Brazil,1/6/2006,208,2732,1101
+Chips - Miss Vickies,Philippines,6/12/2010,203,3962,1001
+Vodka - Smirnoff,French Polynesia,26/4/2007,378,6334,1156
+Steamers White,Argentina,26/6/2007,305,4178,1167
+Shrimp - Tiger 21/25,Japan,20/8/2012,528,11611,1327
+"Appetizer - Mini Egg Roll, Shrimp",Russia,23/2/2012,286,10231,1122
+Turkey - Oven Roast Breast,Poland,24/2/2015,,2676,1389
+Ecolab Digiclean Mild Fm,China,1/1/2007,321,7479,1185
+Cookie Dough - Oatmeal Rasin,France,22/8/2015,208,6171,1078
+Cheese Cloth No 60,Indonesia,20/4/2017,208,3689,1150
+"Garlic - Primerba, Paste",Indonesia,17/11/2005,-1,19666,1144
+Soup - Boston Clam Chowder,Thailand,26/9/2016,159,3842,1362
+Horseradish - Prepared,China,14/5/2001,315,6678,1039
+"Mushroom - Morels, Dry",China,26/9/2001,319,7305,1430
+Cup - Paper 10oz 92959,Philippines,17/5/2005,463,10831,1051
+Bar - Granola Trail Mix Fruit Nut,Indonesia,3/11/2001,208,6568,1279
+Soup - Campbells Mac N Cheese,Poland,27/11/2005,63,1972,1454
+Ocean Spray - Ruby Red,Peru,9/6/2001,334,7306,1061
+Plastic Arrow Stir Stick,Portugal,11/3/2004,330,8585,1048
+"Tortillas - Flour, 10",Russia,22/1/2008,333,6294,1028
+Ice Cream Bar - Oreo Cone,Indonesia,16/10/2001,438,10857,1131
+Pear - Packum,China,25/10/2020,238,3122,1048
+Cake - Night And Day Choclate,Paraguay,29/8/2006,330,8904,1050
+Wine - Casillero Deldiablo,Philippines,13/2/2014,303,8000,1037
+"Artichoke - Hearts, Canned",France,12/7/2010,394,9654,1324
+Plasticspoonblack,China,17/9/2018,410,6981,1369
+Apples - Spartan,China,3/10/2012,160,2609,1196
+Pastry - Mini French Pastries,China,31/12/2007,312,8671,1359
+Oil - Pumpkinseed,Poland,1/6/2020,478,8277,1265
+Mustard Prepared,United States,16/3/2009,255,3679,1429
+Dried Cherries,Philippines,11/5/2011,105,1461,1412
+Chips - Assorted,France,5/8/2007,319,5585,1134
+"Turkey - Breast, Boneless Sk On",China,23/12/2019,158,4420,1151
+"Oil - Food, Lacquer Spray",Russia,5/11/2012,450,10826,1270
+Ezy Change Mophandle,Indonesia,17/11/2001,-14,9448,1290
+Tomatoes - Roma,Canada,6/1/2012,171,2815,1426
+Beans - Fava Fresh,Russia,7/1/2005,331,5427,1339
+Wasabi Powder,Niger,26/10/2019,232,3030,1107
+Juice - Cranberry 284ml,Poland,12/3/2004,198,4659,1055
+Flower - Commercial Spider,Hungary,26/12/2015,282,6924,1094
+Red Currant Jelly,Poland,29/5/2020,392,6868,1126
+Pork Loin Cutlets,Argentina,7/6/2015,136,2308,1017
+Olive - Spread Tapenade,Portugal,12/11/2017,116,2628,1262
+"Veal - Tenderloin, Untrimmed",Peru,5/9/2007,335,10271,1172
+Container Clear 8 Oz,Argentina,14/12/2011,177,3446,1086
+"Pork - Back, Long Cut, Boneless",China,3/9/2002,81,2584,1425
+"Pepper - Black, Ground",Indonesia,17/11/2016,354,8393,1457
+Bar - Sweet And Salty Chocolate,Canada,7/5/2007,63,2106,1107
+"Water - Mineral, Carbonated",Colombia,22/4/2004,466,12828,1118
+"Veal - Leg, Provimi - 50 Lb Max",Palestinian Territory,23/1/2009,482,13713,1262
+Lettuce - Sea / Sea Asparagus,Greece,27/4/2009,288,7799,1007
+Napkin - Beverage 1 Ply,Libya,28/4/2015,111,2324,1300
+Garbag Bags - Black,Sri Lanka,5/12/2013,119,2367,1381
+Pail For Lid 1537,Indonesia,18/9/2006,220,4092,1380
+"Juice - Orange, Concentrate",Armenia,1/2/2006,279,7849,1465
+Cherries - Fresh,Bulgaria,8/8/2005,243,4070,1465
+Foam Dinner Plate,China,24/5/2011,384,6954,1251
+Vinegar - White Wine,El Salvador,4/12/2002,,11145,1149
+"Asparagus - White, Canned",Malaysia,17/6/2008,183,4315,1120
+Squid - U - 10 Thailand,Poland,24/5/2007,334,8279,1126
+Orange Roughy 4/6 Oz,China,22/7/2005,190,3669,1194
+Cookie Dough - Peanut Butter,Indonesia,9/10/2017,264,7993,1190
+Artichokes - Jerusalem,Greece,10/5/2002,304,6517,1447
+English Muffin,Poland,7/5/2005,217,3239,1218
+Wine - Toasted Head,Zimbabwe,22/2/2016,222,4532,1189
+Cake - French Pear Tart,China,14/11/2015,613,13084,1263
+Pepper - Red Bell,Philippines,23/2/2001,575,10252,1202
+"Crab - Claws, 26 - 30",Macedonia,14/4/2017,303,6532,1415
+Sprouts - Onion,Slovenia,14/2/2004,282,4313,1160
+"Plate - Foam, Bread And Butter",China,5/8/2005,348,10582,1318
+Wine - Alsace Gewurztraminer,China,18/11/2003,349,9924,1362
+Bread - Multigrain Oval,China,13/7/2020,302,6385,1368
+Yukon Jack,Portugal,17/4/2014,492,5059,1405
+Buffalo - Tenderloin,China,29/7/2020,364,7399,1345
+Onion Powder,China,22/3/2001,180,2278,1447
+Sauce - Hoisin,Greece,10/8/2013,322,4222,1114
+Gloves - Goldtouch Disposable,Mauritania,5/11/2001,402,12723,1230
+Monkfish Fresh - Skin Off,Bangladesh,31/12/2018,244,6623,1220
+"Veal - Chops, Split, Frenched",Czech Republic,27/11/2008,280,8584,1258
+Soup - Campbells Chili Veg,China,5/5/2007,232,5835,1485
+Wine - Rubyport,Albania,4/5/2005,213,3361,1459
+Quiche Assorted,Poland,1/5/2012,266,4165,1305
+Cups 10oz Trans,Czech Republic,25/2/2013,158,2533,1489
+"Brownies - Two Bite, Chocolate",Mexico,21/2/2007,163,5270,1379
+Nantucket - 518ml,Malaysia,10/4/2003,291,4780,1165
+Vodka - Moskovskaya,Myanmar,9/5/2019,201,3757,1154
+Chutney Sauce,China,18/10/2017,417,4915,1095
+Potatoes - Fingerling 4 Oz,Indonesia,27/11/2017,229,6448,1016
+"Crab - Blue, Frozen",Sweden,23/3/2020,115,2132,1493
+Island Oasis - Peach Daiquiri,Indonesia,15/3/2015,399,12062,1234
+Gelatine Leaves - Bulk,China,17/2/2007,396,9153,1361
+Bonito Flakes - Toku Katsuo,Jamaica,25/6/2007,292,7848,1483
+Puff Pastry - Slab,Bulgaria,1/8/2019,213,3679,1242
+Scallops 60/80 Iqf,Indonesia,21/6/2017,-99,16583,1248
+Cookie Choc,United States,4/3/2012,355,3542,1231
+Coffee - Almond Amaretto,Lithuania,4/9/2011,379,9483,1484
+Water - Spring Water 500ml,Indonesia,22/1/2020,469,11639,1081
+Oil - Cooking Spray,China,18/8/2020,473,9273,1087
+Southern Comfort,Albania,30/10/2002,300,4995,1493
+Hog / Sausage Casing - Pork,Indonesia,6/5/2009,273,8017,1255
+Bread - Onion Focaccia,Russia,3/8/2011,163,3507,1373
+Bread - Sour Sticks With Onion,Indonesia,9/3/2016,290,8502,1296
+Island Oasis - Lemonade,Indonesia,15/1/2020,235,5086,1071
+Pepper - Orange,China,28/1/2011,235,3199,1299
+Rice - 7 Grain Blend,Madagascar,19/5/2014,131,2457,1051
+Coffee - Cafe Moreno,South Korea,3/3/2015,79,1622,1494
+Compound - Rum,Japan,14/6/2008,447,5750,1212
+Filter - Coffee,Panama,1/5/2016,15,214,1314
+"Syrup - Monin, Swiss Choclate",Costa Rica,18/2/2017,204,6073,1183
+"Pork - Butt, Boneless",Russia,26/1/2018,394,8855,1449
+Potatoes - Idaho 100 Count,Ukraine,10/9/2002,220,5149,1296
+Tomato - Green,Indonesia,2/9/2014,297,3829,1407
+"Pepper - Black, Whole",Portugal,13/12/2010,89,1987,1303
+Waffle Stix,China,22/6/2013,35,413,1208
+Coffee Cup 16oz Foam,Palestinian Territory,26/7/2016,353,7324,1190
+"Nut - Cashews, Whole, Raw",Belarus,23/8/2009,317,8638,1139
+Vinegar - Raspberry,Mongolia,8/6/2001,456,9311,1396
+Muffin Mix - Lemon Cranberry,Cuba,7/12/2002,116,3088,1401
+Sauce - Fish 25 Ozf Bottle,Philippines,9/10/2017,205,5312,1097
+Apricots Fresh,South Africa,5/11/2014,398,5857,1420
+Beets - Mini Golden,Philippines,19/7/2020,192,3583,1450
+Juice - Lime,Yemen,19/9/2010,219,2582,1474
+"Pasta - Tortellini, Fresh",Indonesia,3/5/2009,75,1914,1155
+"Juice - V8, Tomato",Peru,25/4/2015,312,6095,1366
+Cabbage - Nappa,Serbia,8/7/2015,369,5324,1294
+Mint - Fresh,Portugal,15/5/2008,254,2775,1317
+Aspic - Amber,Indonesia,4/4/2011,290,4130,1385
+"Pail - 4l White, With Handle",Poland,4/1/2009,263,6767,1499
+"Trout - Hot Smkd, Dbl Fillet",Indonesia,26/1/2003,463,12989,1117
+Pork Loin Bine - In Frenched,Japan,27/9/2003,,25050,1493
+"Radish - Black, Winter, Organic",South Korea,23/8/2007,198,5875,1464
+Lidsoupcont Rp12dn,Azerbaijan,22/6/2020,217,4287,1170
+Beets - Pickled,Poland,8/1/2004,350,4824,1087
+Wine - Semi Dry Riesling Vineland,Philippines,5/8/2019,390,13599,1286
+Crab - Meat,Paraguay,20/11/2007,251,2728,1363
+"Pasta - Penne Primavera, Single",Philippines,25/12/2009,206,7003,1371
+Bread - Hot Dog Buns,Syria,6/11/2014,388,8196,1167
+Vinegar - Tarragon,Russia,23/9/2016,95,1548,1214
+Cheese - Swiss,United States,21/3/2007,246,3528,1179
+"Wine - Red, Gamay Noir",Nicaragua,28/12/2009,,7976,1131
+"Tart Shells - Savory, 3",Indonesia,31/10/2005,54,1124,1356
+Skewers - Bamboo,Philippines,7/9/2017,356,6211,1481
+Sobe - Berry Energy,Poland,24/1/2003,153,2971,1182
+Beef - Tenderloin,Mexico,19/5/2003,261,4740,1476
+Bagel - Whole White Sesame,South Africa,14/7/2018,297,7520,1062
+Cream - 35%,China,12/2/2002,72,808,1237
+Eggplant - Regular,Indonesia,20/6/2006,279,4810,1193
+Tomatoes - Yellow Hot House,Philippines,20/7/2016,315,8991,1395
+Beef - Top Sirloin - Aaa,United Kingdom,21/9/2013,64,1444,1253
+Mushroom - Portebello,China,2/5/2011,-18,2114,1027
+Cake - Miini Cheesecake Cherry,United States,18/1/2018,361,11706,1354
+Extract - Almond,Brazil,9/5/2016,50,873,1235
+Energy Drink,China,6/6/2003,433,5048,1077
+Wine - White Cab Sauv.on,Croatia,20/8/2011,433,9460,1388
+Tea - Orange Pekoe,Guatemala,25/12/2008,298,5759,1197
+Bar - Granola Trail Mix Fruit Nut,Poland,3/6/2016,174,5397,1079
+Cake Sheet Combo Party Pack,Philippines,19/12/2004,349,9530,1129
+Pastry - Apple Large,China,24/5/2001,576,11414,1320
+"Chocolate - Milk, Callets",Philippines,5/4/2015,381,10118,1180
+Crackers - Soda / Saltins,Japan,27/4/2020,322,7611,1453
+"Roe - Lump Fish, Black",Czech Republic,28/11/2019,359,7236,1065
+Cookies - Amaretto,China,7/7/2002,126,2399,1464
+Carbonated Water - Raspberry,Iran,8/10/2004,232,6064,1406
+Lettuce - Boston Bib - Organic,China,9/1/2015,241,6976,1255
+Tequila - Sauza Silver,China,17/10/2007,,11492,1217
+Beer - Camerons Auburn,Philippines,17/9/2008,160,3512,1024
+Amarula Cream,Brazil,10/5/2013,172,2101,1253
+Foil - 4oz Custard Cup,China,2/3/2013,174,4163,1409
+Broom - Push,China,2/4/2019,149,1647,1339
+Crab - Meat,China,18/5/2017,234,2363,1341
+Yoplait Drink,Indonesia,21/1/2006,325,4033,1152
+"Salmon - Atlantic, Fresh, Whole",China,14/12/2008,184,5909,1269
+Chocolate - Chips Compound,China,29/9/2018,399,9620,1273
+Goldschalger,Indonesia,18/2/2011,364,4419,1052
+Plasticforkblack,United Kingdom,1/2/2004,468,7242,1473
+Table Cloth 62x114 White,Czech Republic,20/1/2017,263,5887,1186
+Gatorade - Xfactor Berry,Portugal,23/8/2007,310,7447,1337
+Chocolate Bar - Coffee Crisp,Indonesia,5/8/2009,403,11425,1344
+Chicken - Livers,Senegal,28/1/2002,151,2347,1031
+Wine - Cava Aria Estate Brut,Argentina,15/7/2017,133,3641,1391
+"Lemonade - Mandarin, 591 Ml",Democratic Republic of the Congo,9/4/2014,87,2131,1361
+Eggwhite Frozen,China,26/2/2011,496,7605,1352
+Icecream - Dibs,Colombia,14/4/2015,251,3938,1130
+Cheese - Pied De Vents,Pakistan,20/8/2001,322,7557,1061
+Veal - Osso Bucco,Peru,22/10/2011,195,3264,1121
+Veal - Slab Bacon,China,6/5/2003,242,3971,1059
+"Syrup - Monin, Amaretta",Dominican Republic,5/12/2015,276,6340,1150
+Rice Wine - Aji Mirin,Colombia,24/6/2012,252,4990,1447
+Lettuce Romaine Chopped,Somalia,19/5/2019,143,3059,1315
+"Lamb - Shoulder, Boneless",Croatia,2/2/2014,209,4984,1281
+Table Cloth 144x90 White,Poland,29/12/2004,330,7665,1398
+Eggplant Oriental,Philippines,1/4/2014,253,4518,1323
+"Soda Water - Club Soda, 355 Ml",South Africa,19/12/2018,606,19997,1138
+Muffin - Mix - Bran And Maple 15l,Greece,27/11/2003,208,6915,1122
+"Pork - Butt, Boneless",United States,30/5/2004,310,6493,1226
+Cheese - Valancey,Swaziland,17/7/2016,398,7377,1432
+Coffee - Decafenated,China,2/2/2003,195,4170,1270
+Muffin Batt - Blueberry Passion,United States,15/3/2008,333,9869,1455
+Garbag Bags - Black,China,17/7/2018,337,6497,1101
+Celery Root,Portugal,16/1/2006,261,3052,1448
+Pork Loin Bine - In Frenched,Azerbaijan,14/9/2005,108,3188,1472
+Bread - Mini Hamburger Bun,China,28/6/2004,156,3887,1402
+Soup Knorr Chili With Beans,China,29/9/2018,301,7621,1089
+Cheese - Montery Jack,United States,18/9/2002,339,6543,1264
+Pastry - Mini French Pastries,China,8/10/2012,91,2389,1354
+Cake - Cake Sheet Macaroon,Indonesia,3/6/2001,419,10000,1350
+Sponge Cake Mix - Chocolate,Philippines,8/8/2006,,24800,1206
+Bread - Wheat Baguette,Peru,16/8/2011,121,2793,1200
+Capicola - Hot,Indonesia,31/3/2007,311,4329,1204
+Cheese - Wine,Afghanistan,11/12/2009,42,596,1066
+Apples - Sliced / Wedge,China,30/10/2011,143,3070,1000
+"Doilies - 7, Paper",Peru,17/10/2017,295,5222,1231
+Cucumber - English,Colombia,5/2/2009,527,8766,1067
+Island Oasis - Pina Colada,Indonesia,8/10/2005,529,13623,1223
+Piping Jelly - All Colours,Senegal,13/2/2015,225,6147,1181
+Mahi Mahi,China,10/7/2002,373,3069,1055
+Cheese - Blue,Panama,29/9/2015,167,2052,1291
+Olives - Kalamata,Vietnam,24/12/2002,95,1557,1253
+Sole - Iqf,Philippines,13/12/2007,303,3179,1118
+Muffin - Mix - Bran And Maple 15l,Portugal,16/12/2001,163,5081,1124
+Goldschalger,China,10/1/2017,77,842,1303
+Sauce - Vodka Blush,Indonesia,3/3/2017,167,3248,1277
+Wine - Merlot Vina Carmen,South Korea,7/4/2006,112,2686,1032
+Garlic - Elephant,Poland,19/6/2011,450,7896,1405
+Wine - Balbach Riverside,Philippines,23/7/2017,87,2142,1270
+Tea - Lemon Green Tea,Peru,13/1/2011,225,4547,1267
+Ginsing - Fresh,China,1/10/2005,432,6473,1233
+Wine - Zinfandel California 2002,Russia,19/6/2001,257,8350,1376
+Peach - Halves,South Korea,25/5/2015,335,4353,1047
+"Lentils - Green, Dry",Canada,4/9/2005,272,5452,1005
+Soup - Tomato Mush. Florentine,Poland,13/1/2005,156,4350,1259
+Noodles - Steamed Chow Mein,Syria,2/4/2020,72,1951,1094
+Venison - Ground,Indonesia,8/4/2008,264,4122,1067
+Pastry - Trippleberry Muffin - Mini,Portugal,2/9/2017,447,16431,1328
+Sauce - Thousand Island,Hungary,17/10/2012,339,7765,1445
+Shallots,China,8/6/2003,350,2824,1286
+"Cherries - Bing, Canned",Poland,28/2/2010,151,3796,1485
+Muffin Hinge - 211n,Kazakhstan,26/8/2004,222,4372,1397
+Chevere Logs,Yemen,7/10/2019,305,3858,1054
+"Tomatoes - Cherry, Yellow",China,20/10/2002,225,5212,1286
+"Bread - Pullman, Sliced",Indonesia,24/12/2017,413,10239,1385
+Chef Hat 20cm,Mexico,28/2/2001,354,4939,1421
+"Iced Tea - Lemon, 460 Ml",Netherlands,14/1/2006,561,14541,1208
+Pears - Anjou,Poland,25/10/2017,273,3409,1185
+Nougat - Paste / Cream,Colombia,8/11/2011,79,1635,1055
+"Pork - Bacon, Sliced",Brazil,8/7/2014,375,6799,1479
+Cheese - Brie,China,6/11/2001,217,2687,1477
+"Sauce - Soya, Dark",China,25/10/2010,264,5164,1199
+"Pasta - Linguini, Dry",Philippines,17/12/2002,302,6939,1166
+Foam Tray S2,Thailand,3/3/2001,241,2778,1448
+Bar Bran Honey Nut,Czech Republic,22/4/2006,338,6118,1044
+Chick Peas - Dried,United States,16/7/2013,349,6459,1249
+Onions - White,China,24/1/2018,281,3782,1280
+Sprouts - Alfalfa,China,28/1/2004,292,5020,1135
+Kahlua,Azerbaijan,20/11/2007,389,2490,1276
+Wine - Barossa Valley Estate,Cuba,20/8/2013,215,6129,1450
+Mince Meat - Filling,Netherlands,20/5/2016,142,3013,1140
+"Oil - Food, Lacquer Spray",Greece,8/11/2009,621,14292,1188
+Waffle Stix,Japan,21/5/2007,14,156,1300
+Mustard Prepared,Argentina,5/2/2007,67,1066,1063
+Wine - Riesling Dr. Pauly,Indonesia,6/9/2002,220,5616,1177
+"Salmon - Atlantic, Skin On",Russia,6/5/2015,351,8560,1037
+Lid - 0090 Clear,Brazil,28/6/2015,281,4800,1391
+Soy Protein,Madagascar,6/1/2001,62,650,1246
+Wasabi Powder,Cyprus,25/5/2007,271,3180,1187
+Yogurt - Plain,France,1/11/2015,213,2955,1270
+Tea - Orange Pekoe,Colombia,26/11/2004,216,3577,1316
+"Pasta - Detalini, White, Fresh",China,11/10/2017,510,16568,1258
+Cornish Hen,United States,12/10/2016,257,3064,1057
+Venison - Racks Frenched,Philippines,20/12/2008,186,4707,1256
+"Cheese - Romano, Grated",China,11/4/2013,217,5188,1020
+Bread Ww Cluster,Brazil,10/1/2015,279,4703,1091
+"Doilies - 7, Paper",United States,6/11/2006,,10639,1041
+Flour - Strong,Indonesia,3/2/2017,351,4943,1426
+"Chicken - Leg, Boneless",Uganda,8/12/2005,,17391,1451
+Duck - Whole,Ukraine,13/9/2011,331,4343,1310
+Wine - Fontanafredda Barolo,Gambia,21/3/2017,448,12416,1212
+Muffin - Mix - Bran And Maple 15l,Indonesia,3/2/2014,197,6076,1056
+Napkin White - Starched,China,4/1/2011,98,2151,1306
+Rosemary - Fresh,China,6/12/2016,258,4255,1063
+Boogies,Benin,24/1/2011,202,1274,1313
+Ginger - Crystalized,China,18/11/2006,281,5141,1252
+Nougat - Paste / Cream,France,21/1/2018,8,166,1206
+Salmon Steak - Cohoe 8 Oz,China,24/5/2012,298,6797,1063
+Lettuce - Red Leaf,Uruguay,15/5/2015,143,2540,1018
+Crush - Cream Soda,Philippines,20/12/2006,182,3491,1299
+"Wine - White, Chardonnay",Portugal,1/12/2012,290,6953,1256
+Pepper - Chilli Seeds Mild,Russia,15/2/2006,429,11255,1081
+"Rum - Cream, Amarula",Russia,17/8/2001,156,3340,1251
+Rosemary - Fresh,Philippines,29/7/2015,368,6274,1480
+"Peas - Pigeon, Dry",Philippines,21/1/2011,431,7639,1374
+Yoghurt Tubes,Indonesia,5/4/2018,545,7425,1096
+"Chicken - Thigh, Bone In",Ukraine,12/9/2014,166,4206,1435
+Sugar - Icing,Ukraine,20/2/2020,311,3727,1064
+Pastry - French Mini Assorted,Indonesia,23/3/2007,434,12701,1250
+Soup - Tomato Mush. Florentine,Syria,5/8/2015,325,9533,1377
+Kellogs Raisan Bran Bars,Israel,14/3/2011,272,7167,1192
+Wine - Remy Pannier Rose,Philippines,28/4/2003,51,1245,1264
+Cheese - Shred Cheddar / Mozza,Russia,25/2/2016,215,7039,1198
+Soup V8 Roasted Red Pepper,Georgia,26/5/2002,267,6647,1158
+Salt - Seasoned,Poland,14/11/2017,194,2975,1489
+"Veal - Brisket, Provimi, Bone - In",Indonesia,12/5/2015,94,3394,1232
+Energy Drink,Kyrgyzstan,16/3/2006,114,1402,1343
+Wheat - Soft Kernal Of Wheat,China,12/7/2012,382,11697,1278
+Eel Fresh,Brazil,29/1/2018,308,2935,1233
+Bread - Petit Baguette,Philippines,15/5/2019,189,4321,1175
+Wine - Ice Wine,Russia,30/10/2008,270,4307,1114
+Pineapple - Regular,Seychelles,21/9/2001,341,7101,1009
+Dip - Tapenade,Japan,27/11/2015,319,4661,1485
+Oranges,Mali,6/5/2005,208,1585,1248
+Longos - Chicken Cordon Bleu,Azerbaijan,25/10/2020,398,11433,1107
+"Beef - Tenderlion, Center Cut",Venezuela,8/3/2020,197,6141,1191
+Pasta - Agnolotti - Butternut,China,25/8/2015,197,5238,1398
+"C - Plus, Orange",China,10/11/2019,288,4666,1186
+Lotus Root,Russia,17/10/2020,-11,1730,1194
+Wine - Magnotta - Cab Sauv,Canada,19/9/2019,,14715,1093
+Pie Filling - Pumpkin,Philippines,26/2/2007,-2,23110,1001
+"Bread - Bagels, Mini",Canada,31/10/2013,256,5441,1021
+Gooseberry,China,30/8/2004,237,2516,1489
+Tomatoes - Cherry,France,7/10/2005,214,3534,1256
+Soup - Base Broth Chix,Russia,12/8/2003,-38,13717,1014
+Onions Granulated,Russia,26/7/2006,137,2402,1224
+Pancetta,Indonesia,19/4/2016,294,2334,1259
+Wine - Tribal Sauvignon,Indonesia,23/9/2004,340,8043,1467
+Eggplant Italian,Portugal,19/12/2006,262,4233,1186
+Seaweed Green Sheets,Cameroon,29/3/2018,295,5498,1435
+Flour - Masa De Harina Mexican,Thailand,22/8/2003,297,8923,1288
+Yoplait Drink,Philippines,11/3/2007,186,2270,1304
+Mix - Cappucino Cocktail,China,21/5/2018,229,5553,1196
+"Cup - 3.5oz, Foam",Russia,12/4/2001,422,7191,1218
+Cake - Miini Cheesecake Cherry,Thailand,6/7/2005,11,305,1058
+"Corn - Cream, Canned",Indonesia,30/6/2018,379,8122,1352
+Chicken - White Meat With Tender,Croatia,30/7/2002,290,8395,1362
+"Wine - Red, Pinot Noir, Chateau",France,8/11/2019,222,6532,1270
+"Wine - White, Schroder And Schyl",Poland,28/11/2007,261,8003,1466
+"Bar Mix - Pina Colada, 355 Ml",Russia,21/9/2013,308,9439,1283
+Figs,Vietnam,11/5/2003,335,1444,1220
+Mousse - Mango,Colombia,6/8/2009,125,1868,1325
+Sugar - White Packet,Serbia,10/8/2010,22,453,1324
+"Nut - Hazelnut, Ground, Natural",Albania,30/7/2011,420,13221,1443
+"Butter - Salted, Micro",China,4/7/2009,223,4574,1204
+Beef - Prime Rib Aaa,Jamaica,6/4/2002,368,6908,1297
+Wine - Gewurztraminer Pierre,China,1/5/2008,99,2847,1118
+Veal - Leg,China,5/9/2005,449,4899,1412
+"Cheese - Cheddar, Medium",Poland,24/12/2002,,7649,1033
+Pail With Metal Handle 16l White,Russia,24/11/2019,325,11436,1022
+Eggplant - Baby,Indonesia,11/12/2006,164,2279,1240
+Crab - Meat Combo,Poland,30/10/2010,96,1780,1168
+Coffee Beans - Chocolate,Russia,23/4/2014,2,48,1441
+"Lid - Translucent, 3.5 And 6 Oz",Indonesia,28/12/2016,304,9905,1326
+Wine - Merlot Vina Carmen,Ireland,6/6/2009,246,6098,1032
+Cauliflower,Indonesia,22/2/2019,114,1166,1397
+Lamb - Bones,China,29/12/2003,135,1481,1432
+Cheese - Perron Cheddar,Argentina,12/11/2020,301,7425,1310
+Bread - Rosemary Focaccia,Peru,25/8/2003,415,9729,1188
+Pork - Smoked Back Bacon,Indonesia,10/7/2010,286,6454,1447
+Soup V8 Roasted Red Pepper,Brazil,18/11/2010,399,10181,1339
+Muffin - Bran Ind Wrpd,Cuba,14/10/2016,347,7774,1323
+"Rum - Cream, Amarula",China,27/4/2010,181,3666,1029
+Beef Tenderloin Aaa,Iran,17/12/2008,207,4286,1357
+Sesame Seed,Portugal,23/11/2015,253,2549,1073
+Chips Potato Swt Chilli Sour,Denmark,17/5/2019,350,10613,1280
+Aromat Spice / Seasoning,Indonesia,18/2/2017,254,5881,1352
+Sprouts - Baby Pea Tendrils,Sweden,21/12/2008,227,5867,1253
+Sauce - Chili,China,9/8/2015,232,2827,1161
+"Tomatoes - Cherry, Yellow",Egypt,13/12/2018,,7151,1024
+Plate Pie Foil,Finland,3/4/2019,,10733,1241
+Salt - Kosher,Greece,19/9/2015,81,1130,1440
+Pepper - Gypsy Pepper,China,27/6/2012,153,3516,1256
+Juice Peach Nectar,China,20/12/2003,361,5943,1306
+Maintenance Removal Charge,Poland,30/8/2015,258,6750,1040
+Loquat,Portugal,15/4/2008,252,1625,1189
+Sugar - Splenda Sweetener,China,9/4/2015,334,8156,1058
+"Wine - Red, Marechal Foch",Guatemala,20/5/2017,212,5510,1451
+Mustard - Seed,Sweden,4/5/2017,14,192,1356
+"Mushroom - Shitake, Fresh",Indonesia,25/12/2014,178,4879,1165
+Pur Source,China,13/7/2001,203,2056,1017
+Soup - Campbells Bean Medley,Tunisia,15/12/2005,196,5494,1250
+Roe - White Fish,Argentina,8/3/2012,88,1512,1493
+"Coconut - Shredded, Sweet",Peru,27/7/2006,225,5249,1280
+Tia Maria,Indonesia,1/12/2018,124,1076,1136
+Port - 74 Brights,Colombia,10/8/2020,446,7754,1145
+Napkin White,Czech Republic,9/9/2013,398,5115,1339
+"Jam - Raspberry,jar",Peru,18/10/2009,388,6823,1426
+Beer - Paulaner Hefeweisse,Spain,4/11/2005,179,4796,1294
+"Chicken - Thigh, Bone In",Sweden,27/1/2020,269,6112,1097
+"Bread - Roll, Calabrese",Nicaragua,2/1/2010,348,8166,1410
+"Pepper - Chipotle, Canned",Indonesia,26/4/2006,429,10278,1009
+Compound - Raspberry,Russia,16/4/2013,302,6254,1490
+Bonito Flakes - Toku Katsuo,Indonesia,12/3/2016,471,13832,1220
+Danishes - Mini Raspberry,Poland,14/3/2010,184,4279,1115
+"Pasta - Canelloni, Single Serve",Indonesia,12/4/2014,240,6924,1381
+V8 - Vegetable Cocktail,Slovenia,7/11/2011,494,11679,1207
+Muffin - Mix - Bran And Maple 15l,Bulgaria,22/5/2015,192,6598,1053
+Tobasco Sauce,Sweden,23/4/2019,62,744,1095
+"Cheese - Brie,danish",South Africa,16/5/2008,163,3209,1292
+Beans - Fine,Afghanistan,8/7/2010,6,77,1155
+Cumin - Whole,Poland,17/11/2019,43,606,1016
+Capers - Pickled,Poland,28/3/2017,313,5390,1004
+Soup - Campbells Chicken,Russia,1/8/2009,45,1026,1389
+Beef - Tender Tips,United States,2/7/2008,250,4188,1342
+Plasticspoonblack,Poland,25/1/2004,231,3950,1083
+Smoked Tongue,Morocco,9/8/2019,258,3192,1021
+Aspic - Clear,Netherlands,20/12/2014,176,2384,1061
+Zucchini - Green,Ireland,31/7/2001,-50,16559,1074
+Coffee - Almond Amaretto,Finland,21/4/2004,32,793,1082
+Sambuca - Opal Nera,Yemen,31/5/2020,349,5978,1033
+Beans - Yellow,China,1/2/2007,378,5338,1434
+Puree - Mocha,Kazakhstan,2/11/2004,213,2901,1023
+"Soup - Campbells, Minestrone",Canada,12/6/2009,165,4415,1441
+Napkin Colour,Luxembourg,23/1/2008,217,2963,1230
+Sprouts - Brussel,Cape Verde,20/6/2006,282,5245,1262
+"Bread - Roll, Italian",Brazil,6/5/2015,436,9257,1289
+"Pork - Loin, Bone - In",Indonesia,17/5/2001,294,7098,1291
+"Soup - Knorr, Chicken Noodle",Russia,21/1/2011,269,7446,1266
+Carbonated Water - Wildberry,China,12/3/2008,523,14559,1371
+Chicken Breast Wing On,China,30/9/2001,102,2432,1234
+Soup - French Can Pea,Indonesia,10/4/2011,397,8461,1119
+"Lamb - Loin, Trimmed, Boneless",Brazil,29/11/2014,301,8672,1148
+Beef - Top Butt Aaa,Sweden,14/8/2019,242,4515,1441
+Ginger - Crystalized,Japan,24/12/2014,227,4749,1163
+Dawn Professionl Pot And Pan,Myanmar,2/10/2015,173,4472,1484
+Cleaner - Lime Away,Russia,25/4/2003,362,7308,1400
+Sorrel - Fresh,Azerbaijan,21/7/2019,389,5638,1448
+Beef - Top Sirloin,China,25/8/2011,495,9798,1171
+"Rum - Cream, Amarula",Russia,14/12/2014,468,8860,1325
+Compound - Mocha,Bolivia,8/3/2008,343,5227,1305
+"Beef - Tenderlion, Center Cut",China,15/3/2006,303,8748,1016
+Coffee Beans - Chocolate,China,30/3/2008,303,7996,1410
+Cheese - Brick With Onion,China,23/5/2020,231,5253,1429
+Bread Bowl Plain,Japan,15/3/2018,359,6032,1136
+Compound - Raspberry,Russia,13/5/2004,137,2506,1135
+Mix - Cocktail Strawberry Daiquiri,Colombia,12/7/2020,58,1977,1263
+Hot Choc Vending,Philippines,2/8/2002,462,6761,1203
+Onions Granulated,Poland,21/2/2017,126,2352,1261
+Irish Cream - Baileys,China,20/10/2005,,24155,1139
+Muffin - Mix - Mango Sour Cherry,Sweden,5/6/2020,355,11475,1194
+Juice - V8 Splash,Bosnia and Herzegovina,8/7/2001,251,4433,1426
+Carbonated Water - Strawberry,China,13/11/2008,124,3592,1071
+Muffin - Bran Ind Wrpd,Sweden,29/1/2002,231,5163,1178
+Bread - Corn Muffaletta,Spain,6/4/2010,324,7363,1071
+"Sauce - Soya, Light",China,25/4/2002,336,5772,1083
+Pepper - Roasted Red,Mexico,9/2/2019,-19,16135,1309
+Extract - Rum,Indonesia,7/9/2015,105,1450,1235
+Bread - Raisin Walnut Pull,Russia,10/9/2004,245,5807,1281
+Pate Pans Yellow,Russia,8/1/2004,106,1744,1439
+"Juice - Apple, 341 Ml",Cape Verde,14/7/2005,340,7417,1030
+Oil - Safflower,Philippines,22/12/2009,291,4460,1409
+Duck - Whole,Brazil,23/5/2006,385,4430,1473
+Ice Cream Bar - Hageen Daz To,China,21/2/2015,40,1077,1430
+Fiddlehead - Frozen,Poland,17/7/2007,401,7941,1494
+Swiss Chard,China,7/12/2012,188,2021,1313
+"Pasta - Fettuccine, Egg, Fresh",China,23/8/2009,84,2630,1416
+Pike - Frozen Fillet,Russia,12/6/2012,471,9771,1018
+Muffin Mix - Oatmeal,Portugal,19/6/2014,275,5624,1104
+"Lemonade - Black Cherry, 591 Ml",Indonesia,6/9/2014,57,1853,1220
+Table Cloth 81x81 White,Indonesia,16/3/2008,156,3591,1158
+"Sauce - White, Mix",Peru,20/6/2002,296,5771,1172
+Wine - Mondavi Coastal Private,Vietnam,2/7/2001,256,8250,1234
+"Sprite, Diet - 355ml",Indonesia,3/11/2005,316,6184,1253
+Oil - Hazelnut,El Salvador,31/1/2007,323,4748,1424
+Cookies Cereal Nut,Ukraine,9/3/2010,75,1415,1085
+Lettuce - Iceberg,Indonesia,16/8/2005,247,4454,1385
+Juice - Ocean Spray Kiwi,Sweden,19/8/2007,,22583,1481
+Cocoa Powder - Dutched,Czech Republic,10/4/2003,125,2642,1153
+"Rosemary - Primerba, Paste",Japan,5/5/2010,287,7015,1144
+"Nut - Walnut, Chopped",China,17/4/2015,296,6065,1493
+Heavy Duty Dust Pan,China,27/5/2012,378,7412,1189
+"Pepsi - Diet, 355 Ml",China,28/8/2018,331,6991,1408
+Syrup - Chocolate,China,3/4/2007,416,6491,1094
+Wine - Casablanca Valley,Argentina,8/12/2020,174,4536,1466
+"Clams - Littleneck, Whole",China,20/12/2002,382,10284,1020
+Soup - Campbells Tomato Ravioli,New Caledonia,3/11/2018,389,11571,1201
+Skewers - Bamboo,France,14/9/2019,18,268,1030
+"Stock - Veal, White",China,5/11/2001,167,3366,1365
+Ecolab - Medallion,Indonesia,27/9/2007,265,4788,1085
+Bandage - Finger Cots,Nigeria,3/10/2009,352,7465,1254
+Beef - Cow Feet Split,Cuba,17/9/2010,78,1557,1062
+"Napkin - Dinner, White",Russia,3/11/2013,271,5682,1072
+Appetizer - Escargot Puff,Bulgaria,8/4/2003,279,6421,1258
+Appetizer - Tarragon Chicken,Philippines,8/6/2003,130,3993,1494
+"Rum - Dark, Bacardi, Black",Indonesia,4/7/2020,156,3804,1073
+Table Cloth 120 Round White,Republic of the Congo,7/4/2017,331,8352,1101
+Cake Slab,China,5/12/2001,285,2819,1119
+Compound - Strawberry,China,21/1/2003,349,7813,1030
+Beer - Camerons Cream Ale,Argentina,18/4/2020,402,10038,1117
