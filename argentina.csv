@@ -1,4 +1,4 @@
-"provincia","area","pbi","analfabetismo","indice_pobreza","deficiencia_estructural","desercion_escolar","no_healthcare","mortalidad_natal","poblacion","cines_per_capita","doctores_per_capita"
+"provincia","area","pbi","analfabetismo","indice_pobreza","deficiencia_estructural","desercion_escolar","no_cuidado_salud","mortalidad_natal","poblacion","cines_per_capita","doctores_per_capita"
 "Buenos Aires","Pampas",292689867.987582,1.38324,8.16779764249112,5.51185587030199,0.766168239903095,48.7947,4.4,15625084,6.01596765815787E-06,0.004835622003696
 "Catamarca","Noreste",6150949.15918587,2.34414,9.23409512044472,10.4644842714791,0.951963066122332,45.0456,1.5,367828,5.43732396663658E-06,0.004502104244375
 "Córdoba","Sierras",69363739.1881543,2.71414,5.38238026951109,10.4360863069147,1.03505578423173,45.764,4.8,3308876,1.11820448998391E-05,0.010175358641424
